@@ -18,7 +18,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
 | **Drills** | [Orientation](link) (ALL) | [Kyrel](link) (name) | [Kyrel](link) (name) | [Kyrel](link) (name) | [Extend Kyrel](link) (name) |
 | **Module 1** | [Orientation](link) (ALL) | [Control Flow](link) (name) | [Array Methods](link) (name) | [jQuery & DOM, Intro Chrome ](link) (name) | [Review](link) (name) |
-| **Module 2** | Assessment [What is the Internet, Terminal, Git/GitHub](link) (name) | [Functions & Arguments](link) (name) | [Bootstrap & class-based css](link) (name) | [DOM Events](link) (name) | [Outcomes](link) (name) |
+| **Module 2** | Assessment <br> [What is the Internet, Terminal, Git/GitHub](link) (name) | [Functions & Arguments](link) (name) | [Bootstrap & class-based css](link) (name) | [DOM Events](link) (name) | [Outcomes](link) (name) |
 | **Evening Homework** | [Command Line Mystery + Growth Mindset Video ](link) | [JS Primitives & Objects](link) | [Selectors review, jQuery prep/ DOM preview, chrome dev tool elements](link) | [Practice jQuery](link) | [Tic-Tac-ToeWeekend Lab](link) |
 
 
