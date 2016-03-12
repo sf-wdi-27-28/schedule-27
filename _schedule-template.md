@@ -1,3 +1,5 @@
+<!-- Due to the fact that comments cannot be nested inside comments this boilerplate cannot live inside / be hidden inside README.md -->
+
 ## Week 12  - Topic 
 <table>
   <tr>
