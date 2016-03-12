@@ -2,24 +2,112 @@
 
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/homework-submission.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
-<!-- Week template -->
-<!-- ## Week 1 - Front End Basics
-
-|  | Monday | Tuesday | Wednesday | Thursday | Friday |
-| :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
-| **Drills** | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) |
-| **Module 1** | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) |
-| **Module 2** | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) |
-| **Evening Homework** | [title](link) | [title](link) | [title](link) | [title](link) | [title](link) | -->
-
 ## Week 1 - Front End Basics
-
-|  | Monday | Tuesday | Wednesday | Thursday | Friday |
-| :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
-| **Drills** | [Orientation](link) (ALL) | [Kyrel](link) (name) | [Kyrel](link) (name) | [Kyrel](link) (name) | [Extend Kyrel](link) (name) |
-| **Module 1** | [Orientation](link) (ALL) | [Control Flow](link) (name) | [Array Methods](link) (name) | [jQuery & DOM, Intro Chrome ](link) (name) | [Review](link) (name) |
-| **Module 2** | Assessment <br> [What is the Internet, Terminal, Git/GitHub](link) (name) | [Functions & Arguments](link) (name) | [Bootstrap & class-based css](link) (name) | [DOM Events](link) (name) | [Outcomes](link) (name) |
-| **Evening Homework** | [Command Line Mystery + Growth Mindset Video ](link) | [JS Primitives & Objects](link) | [Selectors review, jQuery prep/ DOM preview, chrome dev tool elements](link) | [Practice jQuery](link) | [Tic-Tac-ToeWeekend Lab](link) |
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 1 - Monday Drill -->
+      Orientation
+      (tbd)
+    </td>
+    <td> <!-- Week 1 - Tuesday Drill -->
+      Kyrel
+      (tbd)
+    </td>
+    <td> <!-- Week 1 - Wednesday Drill -->
+      Kyrel
+      (tbd)
+    </td>
+    <td> <!-- Week 1 - Thursday Drill -->
+      Kyrel
+      (tbd)
+    </td>
+    <td> <!-- Week 1 - Friday Review -->
+      Extend Kyrel
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 1 - Monday Morning Module -->
+      Orientation
+      (Team)
+    </td>
+    <td> <!-- Week 1 - Tuesday Morning Module -->
+      Control Flow
+      (tbd)
+    </td>
+    <td> <!-- Week 1 - Wednesday Morning Module -->
+      Array Methods
+      (tbd)
+    </td>
+    <td> <!-- Week 1 - Thursday Morning Module -->
+      jQuery & DOM, Intro Chrome
+      (tbd)
+    </td>
+    <td> <!-- Week 1 - Friday Morning Module -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 1 - Monday Afternoon Module -->
+      Assessment
+      <br>
+      What is the Internet, Terminal, Git/GitHub
+      (tbd)
+    </td>
+    <td> <!-- Week 1 - Tuesday Afternoon Module -->
+      Functions & Arguments
+      (tbd)
+    </td>
+    <td> <!-- Week 1 - Wednesday Afternoon Module -->
+      Bootstrap & class-based css
+      (tbd)
+    </td>
+    <td> <!-- Week 1 - Thursday Afternoon Module -->
+      DOM Events
+      (tbd)
+    </td>
+    <td> <!-- Week 1 - Friday Afternoon / Weekend Lab -->
+      Outcomes / Tic-Tac-Toe Weekend Lab
+      (tbd)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 1 - Monday Homework -->
+      Command Line Mystery
+      <br>
+      Growth Mindset Video
+      (tbd)
+    </td>
+    <td> <!-- Week 1 - Tuesday Homework -->
+      JS Primitives & Objects
+      (tbd)
+    </td>
+    <td> <!-- Week 1 - Wednesday Homework -->
+      Selectors review, jQuery prep/ DOM preview, chrome dev tool elements
+      (tbd)
+    </td>
+    <td> <!-- Week 1 - Thursday Homework -->
+      Practice jQuery
+      (tbd)
+    </td>
+    <td> <!-- Week 1 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
 
 
 ## Daily Schedule Overview
