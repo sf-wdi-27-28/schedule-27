@@ -1,6 +1,6 @@
 # WDI SF 27
 
-How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/homework-submission.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
+How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
 <!-- Week template -->
 <!-- ## Week 1 - Front End Basics
@@ -9,17 +9,17 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
 | **Drills** | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) |
 | **Module 1** | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) |
-| **Module 2** | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) |
+| **Module 2** | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) | Outcomes <br><br> [title](link) (name) |
 | **Evening Homework** | [title](link) | [title](link) | [title](link) | [title](link) | [title](link) | -->
 
 ## Week 1 - Front End Basics
 
 |  | Monday | Tuesday | Wednesday | Thursday | Friday |
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
-| **Drills** | [Orientation](link) (ALL) | [Kyrel](link) (name) | [Kyrel](link) (name) | [Kyrel](link) (name) | [Extend Kyrel](link) (name) |
-| **Module 1** | [Orientation](link) (ALL) | [Control Flow](link) (name) | [Array Methods](link) (name) | [jQuery & DOM, Intro Chrome ](link) (name) | [Review](link) (name) |
-| **Module 2** | Assessment <br> [What is the Internet, Terminal, Git/GitHub](link) (name) | [Functions & Arguments](link) (name) | [Bootstrap & class-based css](link) (name) | [DOM Events](link) (name) | [Outcomes](link) (name) |
-| **Evening Homework** | [Command Line Mystery + Growth Mindset Video ](link) | [JS Primitives & Objects](link) | [Selectors review, jQuery prep/ DOM preview, chrome dev tool elements](link) | [Practice jQuery](link) | [Tic-Tac-ToeWeekend Lab](link) |
+| **Drills** | Orientation | [Kyrel](link) (name) | [Kyrel](link) (name) | [Kyrel](link) (name) | [Extend Kyrel](link) (name) |
+| **Module 1** | Orientation | [Control Flow](link) (name) | [Array Methods](link) (name) | [jQuery & DOM](link) (name) | [Review](link) (name) |
+| **Module 2** | Assessment <br><br> [What is the Internet, Terminal, Git/GitHub](link) (name) | [Functions & Arguments](link) (name) | [Bootstrap & Class-based CSS](link) (name) | [DOM Events](link) (name) |  [Tic-Tac-Toe Weekend Lab](link) <br><br> Outcomes |
+| **Evening Homework** | [Command Line Mystery & Growth Mindset Video ](link) | [JS Primitives & Objects](link) | [Selectors](link) | [Practice jQuery](link) | [Continue Tic-Tac-Toe Weekend Lab](link) |
 
 
 ## Daily Schedule Overview
