@@ -65,7 +65,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Cory)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon Module -->
-      Functions & Arguments
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/js-functions/27-28">Functions & Arguments</a>
       (Brianna)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon Module -->
