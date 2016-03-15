@@ -88,7 +88,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-01">Command Line Mystery</a>
     </td>
     <td> <!-- Week 1 - Tuesday Homework -->
-      JS Primitives & Objects
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-01">JS Primitives & Objects</a>
     </td>
     <td> <!-- Week 1 - Wednesday Homework -->
       Selectors
