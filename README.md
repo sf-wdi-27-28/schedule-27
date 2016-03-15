@@ -18,19 +18,19 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       Orientation
     </td>
     <td> <!-- Week 1 - Tuesday Drill -->
-      Kyrel
+      <a href="https://github.com/sf-wdi-27-28/kyrel">Kyrel</a>
       (Travis)
     </td>
     <td> <!-- Week 1 - Wednesday Drill -->
-      Kyrel
+      <a href="https://github.com/sf-wdi-27-28/kyrel">Kyrel</a>
       (Travis)
     </td>
     <td> <!-- Week 1 - Thursday Drill -->
-      Kyrel
+      <a href="https://github.com/sf-wdi-27-28/kyrel">Kyrel</a>
       (Travis)
     </td>
     <td> <!-- Week 1 - Friday Review -->
-      Extend Kyrel
+      <a href="https://github.com/sf-wdi-27-28/kyrel">Extend Kyrel</a>
       (Travis)
     </td>
   </tr>
@@ -53,7 +53,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     </td>
     <td> <!-- Week 1 - Friday Morning Module -->
       Review
-      (team)
+      (Team)
     </td>
   </tr>
   <tr>
