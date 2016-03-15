@@ -1,25 +1,106 @@
 # WDI SF 27
 
-How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
-
-<!-- Week template -->
-<!-- ## Week 1 - Front End Basics
-
-|  | Monday | Tuesday | Wednesday | Thursday | Friday |
-| :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
-| **Drills** | [title](#) (name) | [title](#) (name) | [title](#) (name) | [title](#) (name) | [title](#) (name) |
-| **Module 1** | [title](#) (name) | [title](#) (name) | [title](#) (name) | [title](#) (name) | [title](#) (name) |
-| **Module 2** | [title](#) (name) | [title](#) (name) | [title](#) (name) | [title](#) (name) | Outcomes <br><br> [title](#) (name) |
-| **Evening Homework** | [title](#) | [title](#) | [title](#) | [title](#) | [title](#) | -->
+How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/homework-submission.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
 ## Week 1 - Front End Basics
-
-|  | Monday | Tuesday | Wednesday | Thursday | Friday |
-| :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
-| **Drills** | Orientation | [Kyrel](https://github.com/sf-wdi-27-28/kyrel) (TG) | [Kyrel](https://github.com/sf-wdi-27-28/kyrel) (TG) | [Kyrel](https://github.com/sf-wdi-27-28/kyrel) (TG) | [Extend Kyrel](https://github.com/sf-wdi-27-28/kyrel) (TG) |
-| **Module 1** | Orientation | [Control Flow](https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/js-control-flow/25) (TG) | [Array Methods](#) (Brianna) | [jQuery & DOM](#) (Cory) | [Review](#) (ALL) |
-| **Module 2** | [Assessment](https://github.com/SF-WDI-LABS/shared_modules/tree/master/assessments/27-28/day-01) ([Solutions](https://github.com/SF-WDI-LABS/shared_modules/blob/master/assessments/27-28/day-01/solutions.md)) <br><br> [What is the Internet, Terminal, Git/GitHub](https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/how-the-internet-works/27-28) (Cory) | [Functions & Arguments](#) (Brianna) | [Bootstrap & Class-based CSS](#) (Cory) | [DOM Events](#) (Brianna) |  [Tic-Tac-Toe Weekend Lab](#) <br><br> Outcomes |
-| **Evening Homework** | [Command Line Mystery](https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-01) | [JS Primitives & Objects](#) | [Selectors](#) | [Practice jQuery](#) | [Continue Tic-Tac-Toe Weekend Lab](#) |
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 1 - Monday Drill -->
+      Orientation
+    </td>
+    <td> <!-- Week 1 - Tuesday Drill -->
+      <a href="https://github.com/sf-wdi-27-28/kyrel">Kyrel</a>
+      (Travis)
+    </td>
+    <td> <!-- Week 1 - Wednesday Drill -->
+      <a href="https://github.com/sf-wdi-27-28/kyrel">Kyrel</a>
+      (Travis)
+    </td>
+    <td> <!-- Week 1 - Thursday Drill -->
+      <a href="https://github.com/sf-wdi-27-28/kyrel">Kyrel</a>
+      (Travis)
+    </td>
+    <td> <!-- Week 1 - Friday Review -->
+      <a href="https://github.com/sf-wdi-27-28/kyrel">Extend Kyrel</a>
+      (Travis)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 1 - Monday Morning Module -->
+      Orientation
+    </td>
+    <td> <!-- Week 1 - Tuesday Morning Module -->
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/js-control-flow/25">Control Flow</a>
+      (Travis)
+    </td>
+    <td> <!-- Week 1 - Wednesday Morning Module -->
+      Array Methods
+      (Brianna)
+    </td>
+    <td> <!-- Week 1 - Thursday Morning Module -->
+      jQuery &amp; DOM
+      (Cory)
+    </td>
+    <td> <!-- Week 1 - Friday Morning Module -->
+      Review
+      (Team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 1 - Monday Afternoon Module -->
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/assessments/27-28/day-01">Assessment</a> - <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/assessments/27-28/day-01/solutions.md">Solution</a>
+      <br><br>
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/how-the-internet-works/27-28">What is the Internet, Terminal, Git/GitHub</a>
+      (Cory)
+    </td>
+    <td> <!-- Week 1 - Tuesday Afternoon Module -->
+      Functions & Arguments
+      (Brianna)
+    </td>
+    <td> <!-- Week 1 - Wednesday Afternoon Module -->
+      Bootstrap &amp; Class-based CSS
+      (Cory)
+    </td>
+    <td> <!-- Week 1 - Thursday Afternoon Module -->
+      DOM Events
+      (Brianna)
+    </td>
+    <td> <!-- Week 1 - Friday Afternoon / Weekend Lab -->
+      Tic-Tac-Toe Weekend Lab
+      <br><br>
+      Outcomes
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 1 - Monday Homework -->
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-01">Command Line Mystery</a>
+    </td>
+    <td> <!-- Week 1 - Tuesday Homework -->
+      JS Primitives & Objects
+    </td>
+    <td> <!-- Week 1 - Wednesday Homework -->
+      Selectors
+    </td>
+    <td> <!-- Week 1 - Thursday Homework -->
+      Practice jQuery
+    </td>
+    <td> <!-- Week 1 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
 
 
 ## Daily Schedule Overview
