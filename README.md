@@ -86,19 +86,15 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <td><strong>Homework</strong></td>
     <td> <!-- Week 1 - Monday Homework -->
       <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-01">Command Line Mystery</a>
-      (tbd)
     </td>
     <td> <!-- Week 1 - Tuesday Homework -->
       JS Primitives & Objects
-      (tbd)
     </td>
     <td> <!-- Week 1 - Wednesday Homework -->
       Selectors
-      (tbd)
     </td>
     <td> <!-- Week 1 - Thursday Homework -->
       Practice jQuery
-      (tbd)
     </td>
     <td> <!-- Week 1 - Friday -->
       <!-- BLANK -->
