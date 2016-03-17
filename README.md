@@ -48,7 +48,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Brianna)
     </td>
     <td> <!-- Week 1 - Thursday Morning Module -->
-      jQuery &amp; DOM
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/jquery-dom-manipulation/27-28">jQuery &amp; DOM </a>
       (Cory)
     </td>
     <td> <!-- Week 1 - Friday Morning Module -->
@@ -69,7 +69,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Brianna)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon Module -->
-      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/css-bootstrap/27-28"> Bootstrap &amp; Class-based CSS </a> 
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/css-bootstrap/27-28"> Bootstrap &amp; Class-based CSS </a>
       (Cory)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon Module -->
