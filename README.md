@@ -99,7 +99,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
        <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-01#day-3">Function Practice & DOM</a>
     </td>
     <td> <!-- Week 1 - Thursday Homework -->
-      Practice jQuery
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-01#day-4">Practice jQuery</a>
     </td>
     <td> <!-- Week 1 - Friday -->
       <!-- BLANK -->
