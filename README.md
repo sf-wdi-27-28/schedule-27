@@ -78,7 +78,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Cory)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon Module -->
-      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/jquery-event-binding/27-28">DOM Events</a>
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/jquery-event-binding/27-28">DOM Events</a> & <a href="https://github.com/sf-wdi-27-28/events_lab">Events Lab</a>
       (Brianna)
     </td>
     <td> <!-- Week 1 - Friday Afternoon / Weekend Lab -->
