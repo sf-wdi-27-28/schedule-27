@@ -2,6 +2,115 @@
 
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
+## Week 2 - Working with Objects
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 1 - Monday Drill -->
+      Science Fair / Issues (Juliana)
+    </td>
+    <td> <!-- Week 1 - Tuesday Drill -->
+      Letter Frequency Counter
+      (Nathan)
+    </td>
+    <td> <!-- Week 1 - Wednesday Drill -->
+      Big O Intro
+      (Justin)
+    </td>
+    <td> <!-- Week 1 - Thursday Drill -->
+      Debugging
+      (Juliana)
+    </td>
+    <td> <!-- Week 1 - Friday Review -->
+      Review
+      (Team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 1 - Monday Morning Module -->
+      Array Iterators
+			(Nathan)
+    </td>
+    <td> <!-- Week 1 - Tuesday Morning Module -->
+      HTTP, HTML Forms & Query Params
+      (Nathan)
+    </td>
+    <td> <!-- Week 1 - Wednesday Morning Module -->
+      Handlebars Templating
+      (Justin)
+    </td>
+    <td> <!-- Week 1 - Thursday Morning Module -->
+    	Objects & Constructors
+      (Justin)
+    </td>
+    <td> <!-- Week 1 - Friday Morning Module -->
+      Review
+      (Team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 1 - Monday Afternoon Module -->
+      Drilling into Hashes
+			(Nick)
+      <br>
+			------
+			<br>
+      JSON & HTML Strings
+      (Justin)
+    </td>
+    <td> <!-- Week 1 - Tuesday Afternoon Module -->
+      AJAX/Giphy
+      (Juliana)
+    </td>
+    <td> <!-- Week 1 - Wednesday Afternoon Module -->
+			Vocab
+			(Nick)
+			<br>
+			-------
+			<br>
+      Geoquakes
+      (Juliana)
+    </td>
+    <td> <!-- Week 1 - Thursday Afternoon Module -->
+      Object Lab
+      (Justin)
+    </td>
+    <td> <!-- Week 1 - Friday Afternoon / Weekend Lab -->
+      Project 0
+      <br><br>
+      Outcomes
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 1 - Monday Homework -->
+      Refactor & Debug Weekend Lab
+    </td>
+    <td> <!-- Week 1 - Tuesday Homework -->
+    	Spotify
+    </td>
+    <td> <!-- Week 1 - Wednesday Homework -->
+      OOP Readings
+    </td>
+    <td> <!-- Week 1 - Thursday Homework -->
+      Model a Game and OO
+    </td>
+    <td> <!-- Week 1 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
 ## Week 1 - Front End Basics
 <table>
   <tr>
