@@ -82,7 +82,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Brianna)
     </td>
     <td> <!-- Week 1 - Friday Afternoon / Weekend Lab -->
-      Tic-Tac-Toe Weekend Lab
+      <a href="https://github.com/sf-wdi-27-28/tic-tac-toe">Tic-Tac-Toe Weekend Lab</a>
       <br><br>
       Outcomes
     </td>
