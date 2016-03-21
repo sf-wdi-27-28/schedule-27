@@ -15,19 +15,19 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Drills</strong></td>
     <td> <!-- Week 1 - Monday Drill -->
-      Science Fair / Issues (Juliana)
+      Science Fair / Issues (Brianna)
     </td>
     <td> <!-- Week 1 - Tuesday Drill -->
       Letter Frequency Counter
-      (Nathan)
+      (Travis)
     </td>
     <td> <!-- Week 1 - Wednesday Drill -->
       Big O Intro
-      (Justin)
+      (Brianna)
     </td>
     <td> <!-- Week 1 - Thursday Drill -->
       Debugging
-      (Juliana)
+      (Cory)
     </td>
     <td> <!-- Week 1 - Friday Review -->
       Review
@@ -38,19 +38,19 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 1 - Monday Morning Module -->
       Array Iterators
-			(Nathan)
+			(Travis)
     </td>
     <td> <!-- Week 1 - Tuesday Morning Module -->
       HTTP, HTML Forms & Query Params
-      (Nathan)
+      (Travis)
     </td>
     <td> <!-- Week 1 - Wednesday Morning Module -->
       Handlebars Templating
-      (Justin)
+      (Brianna)
     </td>
     <td> <!-- Week 1 - Thursday Morning Module -->
     	Objects & Constructors
-      (Justin)
+      (Brianna)
     </td>
     <td> <!-- Week 1 - Friday Morning Module -->
       Review
@@ -66,11 +66,11 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
 			------
 			<br>
       JSON & HTML Strings
-      (Justin)
+      (Brianna)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon Module -->
       AJAX/Giphy
-      (Juliana)
+      (Cory)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon Module -->
 			Vocab
@@ -79,11 +79,11 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
 			-------
 			<br>
       Geoquakes
-      (Juliana)
+      (Cory)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon Module -->
       Object Lab
-      (Justin)
+      (Brianna)
     </td>
     <td> <!-- Week 1 - Friday Afternoon / Weekend Lab -->
       Project 0
@@ -103,7 +103,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       OOP Readings
     </td>
     <td> <!-- Week 1 - Thursday Homework -->
-      Model a Game and OO
+      Model a Game with Objects
     </td>
     <td> <!-- Week 1 - Friday -->
       <!-- BLANK -->
