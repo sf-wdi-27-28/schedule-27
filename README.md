@@ -94,7 +94,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 1 - Monday Homework -->
-      Refactor & Debug Weekend Lab
+    <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/27-28-w2-d1-hmwk/homework/27-28/week-02/README.md">Reading &amp; Chrome Add-ons</a>
     </td>
     <td> <!-- Week 1 - Tuesday Homework -->
     	Spotify
