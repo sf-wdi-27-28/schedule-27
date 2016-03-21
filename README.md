@@ -65,7 +65,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <br>
 			------
 			<br>
-      JSON & HTML Strings
+      JSON & <a href="https://github.com/SF-WDI-LABS/html_strings">HTML strings</a>
       (Brianna)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon Module -->
