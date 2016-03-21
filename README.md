@@ -61,7 +61,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 1 - Monday Afternoon Module -->
       Drilling into Hashes
-			(Nick)
+			(Will)
       <br>
 			------
 			<br>
@@ -74,7 +74,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon Module -->
 			Vocab
-			(Nick)
+			(Will)
 			<br>
 			-------
 			<br>
