@@ -37,7 +37,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 1 - Monday Morning Module -->
-      Array Iterators
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/js-array-iterators/27-28">Array Iterators</a>
 			(Travis)
     </td>
     <td> <!-- Week 1 - Tuesday Morning Module -->
