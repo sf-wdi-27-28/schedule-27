@@ -60,7 +60,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 1 - Monday Afternoon Module -->
-      Drilling into Hashes
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/dir-presentations/intro-to-basic-objects.md">Drilling into Hashes</a>
 			(Will)
       <br>
 			------
