@@ -69,7 +69,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Brianna)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon Module -->
-      AJAX/Giphy
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/ajax-and-apis/27-28">AJAX/Giphy</a>
       (Cory)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon Module -->
