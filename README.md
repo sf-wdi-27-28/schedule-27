@@ -18,7 +18,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       Science Fair / <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/peer-review.md">Peer Review</a> (Brianna)
     </td>
     <td> <!-- Week 1 - Tuesday Drill -->
-      Letter Frequency Counter
+      <a href="https://github.com/sf-wdi-27-28/letter-count">Letter Frequency Counter</a>
       (Travis)
     </td>
     <td> <!-- Week 1 - Wednesday Drill -->
