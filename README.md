@@ -41,7 +41,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
 			(Travis)
     </td>
     <td> <!-- Week 1 - Tuesday Morning Module -->
-      HTTP, HTML Forms & Query Params
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/01-front-end-basics/html-forms/27-28">HTTP, HTML Forms & Query Params</a>
       (Travis)
     </td>
     <td> <!-- Week 1 - Wednesday Morning Module -->
