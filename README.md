@@ -45,7 +45,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Travis)
     </td>
     <td> <!-- Week 1 - Wednesday Morning Module -->
-      Handlebars Templating
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/templating-handlebars/27-28">Handlebars Templating</a>
       (Brianna)
     </td>
     <td> <!-- Week 1 - Thursday Morning Module -->
