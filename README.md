@@ -49,7 +49,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Brianna)
     </td>
     <td> <!-- Week 1 - Thursday Morning Module -->
-    	Objects & Constructors
+    	<a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/oo-objects-constructors/27-28">Objects & Constructors</a>
       (Brianna)
     </td>
     <td> <!-- Week 1 - Friday Morning Module -->
