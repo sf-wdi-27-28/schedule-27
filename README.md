@@ -82,7 +82,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Cory)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon Module -->
-      Object Lab
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/oo-prototypes/27-28">Object Lab</a>
       (Brianna)
     </td>
     <td> <!-- Week 1 - Friday Afternoon / Weekend Lab -->
