@@ -86,7 +86,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Brianna)
     </td>
     <td> <!-- Week 1 - Friday Afternoon / Weekend Lab -->
-      Project 0
+      <a href="https://github.com/sf-wdi-27-28/project-00">Project 0</a>
       <br><br>
       Outcomes
     </td>
