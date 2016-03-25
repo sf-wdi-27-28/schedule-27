@@ -2,6 +2,114 @@
 
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
+## Week 3  - Express and Mongo
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 3 - Monday Drill -->
+      Issues / Science Fair
+      (Juliana)
+    </td>
+    <td> <!-- Week 3 - Tuesday Drill -->
+      Merge Sort
+      (Justin)
+    </td>
+    <td> <!-- Week 3 - Wednesday Drill -->
+      Bubble Sort
+      (Justin)
+    </td>
+    <td> <!-- Week 3 - Thursday Drill -->
+      Big O
+      (Justin)
+    </td>
+    <td> <!-- Week 3 - Friday Review -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 3 - Monday Morning Module -->
+      Intro Express
+      (Juliana)
+    </td>
+    <td> <!-- Week 3 - Tuesday Morning Module -->
+      Todo Lab
+      (Nathan)
+    </td>
+    <td> <!-- Week 3 - Wednesday Morning Module -->
+      Intro Mongoose
+      (Justin)
+    </td>
+    <td> <!-- Week 3 - Thursday Morning Module -->
+      More Relationships
+      (tbd)
+    </td>
+    <td> <!-- Week 3 - Friday Morning Module -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 3 - Monday Afternoon Module -->
+      Stackoverflow Q&A
+      (Nick)
+      <br>
+      -----------
+      <br>
+      Express Params and Queries
+      (Justin)
+    </td>
+    <td> <!-- Week 3 - Tuesday Afternoon Module -->
+      Todo Lab Cont.
+      (Nathan)
+    </td>
+    <td> <!-- Week 3 - Wednesday Afternoon Module -->
+      Mongoose Relationships
+      (Juliana)
+    </td>
+    <td> <!-- Week 3 - Thursday Afternoon Module -->
+      JS Method Show and Tell
+      (Nick)
+      <br>
+      -----------
+      <br>
+      Fill in the Blog Review Lab
+      (Justin)
+    </td>
+    <td> <!-- Week 3 - Friday Afternoon / Weekend Lab -->
+      Personal API
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 3 - Monday Homework -->
+      Express Docs & REST Reading
+    </td>
+    <td> <!-- Week 3 - Tuesday Homework -->
+      Express Build Drills
+    </td>
+    <td> <!-- Week 3 - Wednesday Homework -->
+      CRUD/Query Method Reading
+    </td>
+    <td> <!-- Week 3 - Thursday Homework -->
+      Continue Fill in the Blog
+    </td>
+    <td> <!-- Week 3 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
 ## Week 2 - Working with Objects
 <table>
   <tr>
