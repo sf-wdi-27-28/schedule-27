@@ -16,19 +16,19 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <td><strong>Drills</strong></td>
     <td> <!-- Week 3 - Monday Drill -->
       Issues / Science Fair
-      (Juliana)
+      (Cory)
     </td>
     <td> <!-- Week 3 - Tuesday Drill -->
       Merge Sort
-      (Justin)
+      (Travis)
     </td>
     <td> <!-- Week 3 - Wednesday Drill -->
       Bubble Sort
-      (Justin)
+      (Travis)
     </td>
     <td> <!-- Week 3 - Thursday Drill -->
       Big O
-      (Justin)
+      (Brianna)
     </td>
     <td> <!-- Week 3 - Friday Review -->
       Review
@@ -39,15 +39,15 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 3 - Monday Morning Module -->
       Intro Express
-      (Juliana)
+      (Brianna)
     </td>
     <td> <!-- Week 3 - Tuesday Morning Module -->
       Todo Lab
-      (Nathan)
+      (Cory)
     </td>
     <td> <!-- Week 3 - Wednesday Morning Module -->
       Intro Mongoose
-      (Justin)
+      (Travis)
     </td>
     <td> <!-- Week 3 - Thursday Morning Module -->
       More Relationships
@@ -62,29 +62,29 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 3 - Monday Afternoon Module -->
       Stackoverflow Q&A
-      (Nick)
+      (Will)
       <br>
       -----------
       <br>
       Express Params and Queries
-      (Justin)
+      (Travis)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon Module -->
       Todo Lab Cont.
-      (Nathan)
+      (Cory)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon Module -->
       Mongoose Relationships
-      (Juliana)
+      (Brianna)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon Module -->
       JS Method Show and Tell
-      (Nick)
+      (Will)
       <br>
       -----------
       <br>
       Fill in the Blog Review Lab
-      (Justin)
+      (Brianna)
     </td>
     <td> <!-- Week 3 - Friday Afternoon / Weekend Lab -->
       Personal API
