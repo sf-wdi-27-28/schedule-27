@@ -61,10 +61,12 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 3 - Monday Afternoon Module -->
-      Stackoverflow Q&A
+      <!--Stackoverflow Q&A
+      
       (Will)
       <br>
       -----------
+      -->
       <br>
       <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/02-express-mongo-crud/express-params-queries/27-28">Express Params and Queries</a>
       (Travis)
