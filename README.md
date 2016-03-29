@@ -42,7 +42,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Brianna)
     </td>
     <td> <!-- Week 3 - Tuesday Morning Module -->
-      Todo Lab
+      <a href="https://github.com/sf-wdi-27-28/test-driven-todo-api">Todo Lab</a>
       (Cory)
     </td>
     <td> <!-- Week 3 - Wednesday Morning Module -->
