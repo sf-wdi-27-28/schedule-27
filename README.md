@@ -23,7 +23,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Travis)
     </td>
     <td> <!-- Week 3 - Wednesday Drill -->
-      Merge Sort
+      <a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/merge-sort">Merge Sort</a>
       (Travis)
     </td>
     <td> <!-- Week 3 - Thursday Drill -->
