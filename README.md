@@ -46,7 +46,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Cory)
     </td>
     <td> <!-- Week 3 - Wednesday Morning Module -->
-      Intro Mongoose
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/02-express-mongo-crud/mongoose-intro/27-28">Intro Mongoose</a>
       (Travis)
     </td>
     <td> <!-- Week 3 - Thursday Morning Module -->
