@@ -50,8 +50,8 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Brianna)
     </td>
     <td> <!-- Week 3 - Thursday Morning Module -->
-      More Relationships
-      (tbd)
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/mongoose-embed/02-express-mongo-crud/mongoose-embed/27-28#embedding-data-within-a-database">Embedded Relationships</a>
+      (Cory)
     </td>
     <td> <!-- Week 3 - Friday Morning Module -->
       Review
