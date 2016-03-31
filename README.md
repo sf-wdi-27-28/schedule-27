@@ -80,11 +80,11 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Brianna)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon Module -->
-      JS Method Show and Tell
+   <!--   JS Method Show and Tell
       (Will)
       <br>
       -----------
-      <br>
+      --><br>
       Fill in the Blog Review Lab
       (Brianna)
     </td>
