@@ -193,7 +193,9 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Brianna)
     </td>
     <td> <!-- Week 3 - Friday Afternoon / Weekend Lab -->
-      Personal API
+      <a href="https://github.com/sf-wdi-27-28/express-personal-api">Personal API</a>
+      &
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/heroku-mean-stack-deploy.md" target="_blank">Heroku Deploy</a>
     </td>
   </tr>
   <tr>
