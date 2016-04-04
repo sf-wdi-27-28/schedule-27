@@ -2,6 +2,105 @@
 
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
+## Week 4  - Full Stack JS
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 4 - Monday Drill -->
+      Go over personal API
+      (Cory)
+    </td>
+    <td> <!-- Week 4 - Tuesday Drill -->
+      Secret Keys
+      (Justin)
+    </td>
+    <td> <!-- Week 4 - Wednesday Drill -->
+      Project 1 Intro
+      (team)
+    </td>
+    <td> <!-- Week 4 - Thursday Drill -->
+      P1
+      (team)
+    </td>
+    <td> <!-- Week 4 - Friday Review -->
+      P1
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 4 - Monday Morning Module -->
+      Tunely
+      (team)
+    </td>
+    <td> <!-- Week 4 - Tuesday Morning Module -->
+      Tunely
+      (team)
+    </td>
+    <td> <!-- Week 4 - Wednesday Morning Module -->
+      P1 Approvals
+      (team)
+    </td>
+    <td> <!-- Week 4 - Thursday Morning Module -->
+      P1
+      (team)
+    </td>
+    <td> <!-- Week 4 - Friday Morning Module -->
+      P1
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 4 - Monday Afternoon Module -->
+      Tunely
+      (Travis)
+    </td>
+    <td> <!-- Week 4 - Tuesday Afternoon Module -->
+      Tunely
+      (Travis)
+    </td>
+    <td> <!-- Week 4 - Wednesday Afternoon Module -->
+      P1 Approvals
+      (team)
+    </td>
+    <td> <!-- Week 4 - Thursday Afternoon Module -->
+      P1
+      (team)
+    </td>
+    <td> <!-- Week 4 - Friday Afternoon / Weekend Lab -->
+      P1
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 4 - Monday Homework -->
+      Tunely cont.
+    </td>
+    <td> <!-- Week 4 - Tuesday Homework -->
+      Tunely cont.
+    </td>
+    <td> <!-- Week 4 - Wednesday Homework -->
+      P1
+    </td>
+    <td> <!-- Week 4 - Thursday Homework -->
+      P1
+    </td>
+    <td> <!-- Week 4 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
 ## Week 3  - Express and Mongo
 <table>
   <tr>
