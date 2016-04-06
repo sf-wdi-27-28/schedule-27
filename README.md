@@ -26,15 +26,15 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 4 - Wednesday Drill -->
-      Project 1 Intro
+      <a href="https://github.com/sf-wdi-27-28/project-01">P1</a>
       (team)
     </td>
     <td> <!-- Week 4 - Thursday Drill -->
-      P1
+      <a href="https://github.com/sf-wdi-27-28/project-01">P1</a>
       (team)
     </td>
     <td> <!-- Week 4 - Friday Review -->
-      P1
+      <a href="https://github.com/sf-wdi-27-28/project-01">P1</a>
       (team)
     </td>
   </tr>
@@ -53,11 +53,11 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 4 - Thursday Morning Module -->
-      P1
+      <a href="https://github.com/sf-wdi-27-28/project-01">P1</a>
       (team)
     </td>
     <td> <!-- Week 4 - Friday Morning Module -->
-      P1
+      <a href="https://github.com/sf-wdi-27-28/project-01">P1</a>
       (team)
     </td>
   </tr>
@@ -76,11 +76,11 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 4 - Thursday Afternoon Module -->
-      P1
+      <a href="https://github.com/sf-wdi-27-28/project-01">P1</a>
       (team)
     </td>
     <td> <!-- Week 4 - Friday Afternoon / Weekend Lab -->
-      P1
+      <a href="https://github.com/sf-wdi-27-28/project-01">P1</a>
       (team)
     </td>
   </tr>
