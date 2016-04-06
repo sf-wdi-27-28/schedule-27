@@ -2,6 +2,9 @@
 
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
+
+## Project 1 Instructor:Students Assignment
+![img](https://github.com/sf-wdi-27-28/schedule-27/blob/master/Screen%20Shot%202016-04-06%20at%2011.01.55%20AM.png)
 ## Week 4  - Full Stack JS
 <table>
   <tr>
