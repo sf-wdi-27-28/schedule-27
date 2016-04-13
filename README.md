@@ -85,7 +85,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Everyone)
     </td>
     <td> <!-- Week 5 - Wednesday Homework -->
-      Tunely
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-05/README.md#day-3">Tunely</a>
     </td>
     <td> <!-- Week 5 - Thursday Homework -->
       Tunley
