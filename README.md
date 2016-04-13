@@ -42,16 +42,16 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
 	   Project 1 Presentations
     </td>
     <td> <!-- Week 5 - Wednesday Morning Module -->
-      Angular Directives & Templates
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/03-angular-mean/intro-angular/27-28">Angular Directives & Expressions</a> <a href="https://github.com/SF-WDI-LABS/tunely-angular">tunely-angular</a>
       (Cory)
     </td>
     <td> <!-- Week 5 - Thursday Morning Module -->
       Angular $http U/D
       (Cory)
-      
+
     </td>
     <td> <!-- Week 5 - Friday Morning Module -->
-      Book App 
+      Book App
       (Cory)
     </td>
   </tr>
@@ -96,7 +96,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   </tr>
 </table>
 
-  
+
 ## Week 4  - Full Stack JS
 <table>
   <tr>
