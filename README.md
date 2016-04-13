@@ -64,7 +64,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       FREEDOM!!!!
     </td>
     <td> <!-- Week 5 - Wednesday Afternoon Module -->
-      Angular $http C/R
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/03-angular-mean/http/27/README.md">Angular $http C/R</a>
       (Brianna)
     </td>
     <td> <!-- Week 5 - Thursday Afternoon Module -->
