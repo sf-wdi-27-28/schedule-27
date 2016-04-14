@@ -46,7 +46,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Cory)
     </td>
     <td> <!-- Week 5 - Thursday Morning Module -->
-      Angular $http U/D
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/03-angular-mean/http-update-delete/27-28">Angular $http U/D</a>
       (Cory)
 
     </td>
