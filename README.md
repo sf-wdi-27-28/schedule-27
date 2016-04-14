@@ -68,7 +68,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Brianna)
     </td>
     <td> <!-- Week 5 - Thursday Afternoon Module -->
-      Angular Routing
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/03-angular-mean/ngRoute/27">Angular Routing</a>
       (Travis)
     </td>
     <td> <!-- Week 5 - Friday Afternoon / Weekend Lab -->
