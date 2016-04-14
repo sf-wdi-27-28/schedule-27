@@ -25,7 +25,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Travis)
     </td>
     <td> <!-- Week 5 - Thursday Drill -->
-      Javascript Drills
+      <a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/implement-iterators">Whiteboard Iterators</a> & <a href="https://github.com/SF-WDI-27-28/building_js_iterators_lab">Build JS Iterators Lab</a>
       (Brianna)
     </td>
     <td> <!-- Week 5 - Friday Review -->
