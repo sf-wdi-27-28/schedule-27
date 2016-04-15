@@ -64,11 +64,13 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       FREEDOM!!!!
     </td>
     <td> <!-- Week 5 - Wednesday Afternoon Module -->
-      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/03-angular-mean/http/27/README.md">Angular $http C/R</a>
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/03-angular-mean/http/27/README.md">Angular $http C/R</a> & Tunely Sprint 2
       (Brianna)
     </td>
     <td> <!-- Week 5 - Thursday Afternoon Module -->
-      Angular Routing
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/03-angular-mean/ngRoute/27">Angular Routing</a>     Angular Routing
+        &amp;
+        <a href="https://github.com/sf-wdi-27-28/color-me-angular">ngRoute Lab</a>
       (Travis)
     </td>
     <td> <!-- Week 5 - Friday Afternoon / Weekend Lab -->
@@ -88,7 +90,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-05/README.md#day-3">Tunely</a>
     </td>
     <td> <!-- Week 5 - Thursday Homework -->
-      Tunley
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-05/README.md#day-4">Tunely sprint 4</a>
     </td>
     <td> <!-- Week 5 - Friday -->
       <!-- BLANK -->
