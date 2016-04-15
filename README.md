@@ -46,11 +46,12 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Cory)
     </td>
     <td> <!-- Week 5 - Thursday Morning Module -->
-      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/03-angular-mean/http-update-delete/27-28">Angular $http U/D</a>
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/03-angular-mean/http-update-delete/27-28 ">Angular $http U/D</a>
       (Cory)
+
     </td>
     <td> <!-- Week 5 - Friday Morning Module -->
-      Book App
+      <a href="https://github.com/sf-wdi-27-28/angular-books-crud-lab">Book App</a>
       (Cory)
     </td>
   </tr>
@@ -63,17 +64,15 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       FREEDOM!!!!
     </td>
     <td> <!-- Week 5 - Wednesday Afternoon Module -->
-      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/03-angular-mean/http/27/README.md">Angular $http C/R</a> & Tunely Sprint 2
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/03-angular-mean/http/27/README.md">Angular $http C/R</a>
       (Brianna)
     </td>
     <td> <!-- Week 5 - Thursday Afternoon Module -->
-      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/03-angular-mean/ngRoute/27">Angular Routing</a>
-      &amp;
-      <a href="https://github.com/sf-wdi-27-28/color-me-angular">ngRoute Lab</a>
+      Angular Routing
       (Travis)
     </td>
     <td> <!-- Week 5 - Friday Afternoon / Weekend Lab -->
-      Book App & Outcomes
+      <a href="https://github.com/sf-wdi-27-28/angular-books-crud-lab">Book App</a> & Outcomes
     </td>
   </tr>
   <tr>
@@ -89,7 +88,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-05/README.md#day-3">Tunely</a>
     </td>
     <td> <!-- Week 5 - Thursday Homework -->
-      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-05/README.md#day-4">Tunely sprint 4</a>
+      Tunley
     </td>
     <td> <!-- Week 5 - Friday -->
       <!-- BLANK -->
