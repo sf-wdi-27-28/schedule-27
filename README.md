@@ -48,7 +48,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     </td>
     <td> <!-- Week 6 - Wednesday Morning Module -->
       Breakouts: MEAN Auth / Review
-      (team)
+      (Cory & Travis)
     </td>
     <td> <!-- Week 6 - Thursday Morning Module -->
       Intro Ruby - language comparison
