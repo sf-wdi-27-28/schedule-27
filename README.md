@@ -39,7 +39,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 6 - Monday Morning Module -->
-      Breakouts: Review / Practice
+      Breakouts: Review / <a href="https://github.com/sf-wdi-27-28/goat_tracker_95">Practice: Goat Tracker 95</a>
       (Cory & Travis)
     </td>
     <td> <!-- Week 6 - Tuesday Morning Module -->
