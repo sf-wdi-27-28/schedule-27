@@ -2,6 +2,107 @@
 
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
+
+## Week 6  - Angular -> Ruby
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 6 - Monday Drill -->
+      Singly Linked Lists
+      (Brianna)
+    </td>
+    <td> <!-- Week 6 - Tuesday Drill -->
+      Singly Linked Lists
+      (Brianna)
+    </td>
+    <td> <!-- Week 6 - Wednesday Drill -->
+      Doubly Linked lists
+      (Brianna)
+    </td>
+    <td> <!-- Week 6 - Thursday Drill -->
+      Health Check
+      (Travis)
+    </td>
+    <td> <!-- Week 6 - Friday Review -->
+      Ruby Practice
+      (Brianna)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 6 - Monday Morning Module -->
+      Breakouts: Review
+      (Cory & Travis)
+    </td>
+    <td> <!-- Week 6 - Tuesday Morning Module -->
+      Custom Directives
+      (Cory)
+    </td>
+    <td> <!-- Week 6 - Wednesday Morning Module -->
+      Breakouts: MEAN Auth / Review
+      (team)
+    </td>
+    <td> <!-- Week 6 - Thursday Morning Module -->
+      Intro Ruby - language comparison
+      (Brianna)
+    </td>
+    <td> <!-- Week 6 - Friday Morning Module -->
+      Ruby Methods
+      (Brianna)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 6 - Monday Afternoon Module -->
+      tunely-angular Sprint 5
+      (Brianna)
+    </td>
+    <td> <!-- Week 6 - Tuesday Afternoon Module -->
+      Services
+      (Travis)
+    </td>
+    <td> <!-- Week 6 - Wednesday Afternoon Module -->
+      Breakouts: MEAN Auth / Review
+      (team)
+    </td>
+    <td> <!-- Week 6 - Thursday Afternoon Module -->
+      Idiomatic Ruby
+      (Travis)
+    </td>
+    <td> <!-- Week 6 - Friday Afternoon / Weekend Lab -->
+      Weekend Lab
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 6 - Monday Homework -->
+      tunely-angular Sprint 5
+    </td>
+    <td> <!-- Week 6 - Tuesday Homework -->
+      Review, Self assessment
+    </td>
+    <td> <!-- Week 6 - Wednesday Homework -->
+      Look ahead at Ruby
+    </td>
+    <td> <!-- Week 6 - Thursday Homework -->
+      Ruby Koans
+    </td>
+    <td> <!-- Week 6 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
+
+
 ## Week 5  - Angular
 <table>
   <tr>
