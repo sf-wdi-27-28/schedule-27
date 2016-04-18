@@ -24,7 +24,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Brianna)
     </td>
     <td> <!-- Week 6 - Wednesday Drill -->
-      Doubly Linked lists
+      Doubly Linked Lists
       (Brianna)
     </td>
     <td> <!-- Week 6 - Thursday Drill -->
@@ -39,7 +39,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 6 - Monday Morning Module -->
-      Breakouts: Review
+      Breakouts: Review / Practice
       (Cory & Travis)
     </td>
     <td> <!-- Week 6 - Tuesday Morning Module -->
@@ -78,7 +78,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Travis)
     </td>
     <td> <!-- Week 6 - Friday Afternoon / Weekend Lab -->
-      Weekend Lab
+      Ruby Methods Lab
     </td>
   </tr>
   <tr>
@@ -90,7 +90,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       Review, Self assessment
     </td>
     <td> <!-- Week 6 - Wednesday Homework -->
-      Look ahead at Ruby
+      Look Ahead at Ruby
     </td>
     <td> <!-- Week 6 - Thursday Homework -->
       Ruby Koans
