@@ -62,7 +62,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 6 - Monday Afternoon Module -->
-      tunely-angular Sprint 5
+      tunely-angular <a href="https://github.com/SF-WDI-LABS/tunely-angular/blob/master/docs/sprint5.md">Sprint 5</a>
       (Brianna)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon Module -->
