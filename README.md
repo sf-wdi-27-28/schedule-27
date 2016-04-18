@@ -84,7 +84,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 6 - Monday Homework -->
-      tunely-angular Sprint 5
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-06#day-1">Pre-reading and tunely-angular Sprint 5</a>
     </td>
     <td> <!-- Week 6 - Tuesday Homework -->
       Review, Self assessment
