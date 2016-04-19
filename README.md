@@ -20,7 +20,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Brianna)
     </td>
     <td> <!-- Week 6 - Tuesday Drill -->
-      Singly Linked Lists
+       <a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/linked-lists"> Singly Linked Lists</a>
       (Brianna)
     </td>
     <td> <!-- Week 6 - Wednesday Drill -->
