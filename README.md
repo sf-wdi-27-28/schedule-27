@@ -66,7 +66,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Brianna)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon Module -->
-      Services
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/03-angular-mean/services-promises-ngResource/27-28/README.md">Services</a> & <a href="https://github.com/SF-WDI-LABS/angular_books_api_with_services">Service Implementation</a>
       (Travis)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon Module -->
