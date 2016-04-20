@@ -47,7 +47,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Cory)
     </td>
     <td> <!-- Week 6 - Wednesday Morning Module -->
-      Breakouts: MEAN Auth / [Angular Review](https://github.com/SF-WDI-LABS/shared_modules/tree/master/03-angular-mean/api-integration/27-28)
+      Breakouts: MEAN Auth / <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/03-angular-mean/api-integration/27-28">Angular Review</a>
       (Cory & Travis)
     </td>
     <td> <!-- Week 6 - Thursday Morning Module -->
@@ -70,7 +70,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Travis)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon Module -->
-      Breakouts: MEAN Auth / [Angular Review](https://github.com/SF-WDI-LABS/shared_modules/tree/master/03-angular-mean/api-integration/27-28)
+      Breakouts: MEAN Auth / <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/03-angular-mean/api-integration/27-28">Angular Review</a>
       (team)
     </td>
     <td> <!-- Week 6 - Thursday Afternoon Module -->
