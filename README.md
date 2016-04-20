@@ -70,7 +70,10 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Travis)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon Module -->
-      Breakouts: MEAN Auth / <a href="https://github.com/sf-wdi-27-28/angular_movie_project">Angular Review</a>
+      Breakouts:
+      <a href="https://github.com/sf-wdi-27-28/mean-auth-blog">MEAN Auth Blog</a>
+      /
+      <a href="https://github.com/sf-wdi-27-28/angular_movie_project">Angular Review</a>
       (team)
     </td>
     <td> <!-- Week 6 - Thursday Afternoon Module -->
