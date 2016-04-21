@@ -96,7 +96,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-06/README.md#day-3">Look Ahead at Ruby </a>
     </td>
     <td> <!-- Week 6 - Thursday Homework -->
-      Ruby Koans
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-06/README.md#day-4">Ruby Koans</a>
     </td>
     <td> <!-- Week 6 - Friday -->
       <!-- BLANK -->
