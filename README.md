@@ -32,7 +32,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Travis)
     </td>
     <td> <!-- Week 6 - Friday Review -->
-      Ruby Practice
+      <a href="https://github.com/SF-WDI-LABS/valid-ip">Ruby Practice</a>
       (Brianna)
     </td>
   </tr>
