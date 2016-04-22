@@ -55,7 +55,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Brianna)
     </td>
     <td> <!-- Week 6 - Friday Morning Module -->
-      Ruby Methods
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/ruby-methods">Ruby Methods</a>
       (Brianna)
     </td>
   </tr>
