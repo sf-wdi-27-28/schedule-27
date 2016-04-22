@@ -81,7 +81,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Travis)
     </td>
     <td> <!-- Week 6 - Friday Afternoon / Weekend Lab -->
-      Ruby Methods Lab
+      <a href="https://github.com/sf-wdi-27-28/ruby_method_drills.git">Ruby Methods Lab</a>
     </td>
   </tr>
   <tr>
