@@ -55,7 +55,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 7 - Monday Afternoon Module -->
-    Username Generator Lab (Cory)
+    <a href="https://github.com/sf-wdi-27-28/username_generator/tree/master">Username Generator Lab</a> (Cory)
     </td>
     <td> <!-- Week 7 - Tuesday Afternoon Module -->
     Review Username Generator (Will)
@@ -86,7 +86,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     Rails Guides
     </td>
     <td> <!-- Week 6 - Thursday Homework -->
-    Self Assessment & Review 
+    Self Assessment & Review
     </td>
     <td> <!-- Week 6 - Friday -->
       <!-- BLANK -->
