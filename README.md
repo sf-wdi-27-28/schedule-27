@@ -15,71 +15,78 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   </tr>
   <tr>
     <td><strong>Drills</strong></td>
-    <td> <!-- Week 6 - Monday Drill -->
-    	<a href="https://github.com/SF-WDI-LABS/ruby-algorithms-drills/tree/master/regex">Regex</a>
+    <td> <!-- Week 7 - Monday Drill -->
+    	<a href="https://github.com/SF-WDI-LABS/ruby-algorithms-drills/tree/master/regex">Regex</a> (Travis)
     </td>
-    <td> <!-- Week 6 - Tuesday Drill -->
-    	CSV
+    <td> <!-- Week 7 - Tuesday Drill -->
+    	Comma Separated Values (CSV) (Brianna)
     </td>
-    <td> <!-- Week 6 - Wednesday Drill -->
-    	CSV
+    <td> <!-- Week 7 - Wednesday Drill -->
+    	CSV (Brianna)
     </td>
-    <td> <!-- Week 6 - Thursday Drill -->
-    	Merge Sort
+    <td> <!-- Week 7 - Thursday Drill -->
+    	Ruby Merge Sort
     </td>
-    <td> <!-- Week 6 - Friday Review -->
+    <td> <!-- Week 7 - Friday Review -->
     </td>
   </tr>
   <tr>
     <td><strong>Module 1</strong></td>
-    <td> <!-- Week 6 - Monday Morning Module -->
-    Ruby Review (TG)
+    <td> <!-- Week 7 - Monday Morning Module -->
+    Ruby Review (Travis)
     </td>
-    <td> <!-- Week 6 - Tuesday Morning Module -->
-    Ruby OO (BV)
+    <td> <!-- Week 7 - Tuesday Morning Module -->
+    Ruby OOP (Brianna)
     </td>
-    <td> <!-- Week 6 - Wednesday Morning Module -->
-    r00by lab
+    <td> <!-- Week 7 - Wednesday Morning Module -->
+    Review Ruby OOP Lab (Brianna)
     <hr>
-    Intro Rails
+    Intro Rails (Cory)
     </td>
-    <td> <!-- Week 6 - Thursday Morning Module -->
-    Active Record
+    <td> <!-- Week 7 - Thursday Morning Module -->
+    Active Record (Brianna)
     </td>
-    <td> <!-- Week 6 - Friday Morning Module -->
-    
+    <td> <!-- Week 7 - Friday Morning Module -->
+    Rock-n-Rails (Cory)
+    Assessment
+    Feedback
     </td>
   </tr>
   <tr>
     <td><strong>Module 2</strong></td>
-    <td> <!-- Week 6 - Monday Afternoon Module -->
-    Username Generator Lab (CF)
+    <td> <!-- Week 7 - Monday Afternoon Module -->
+    Username Generator Lab (Cory)
     </td>
-    <td> <!-- Week 6 - Tuesday Afternoon Module -->
-    Review Username Generator (WC)
+    <td> <!-- Week 7 - Tuesday Afternoon Module -->
+    Review Username Generator (Will)
     <hr>
-    Roby OO (BV)
+    Roby OOP (Brianna)
     </td>
-    <td> <!-- Week 6 - Wednesday Afternoon Module -->
-    Rails Intro Cont'd (CF)
+    <td> <!-- Week 7 - Wednesday Afternoon Module -->
+    Rails Intro Continued (Cory)
     <hr>
-    Build a blog! (TG)
+    Build a blog! (Travis)
     </td>
-    <td> <!-- Week 6 - Thursday Afternoon Module -->
-	Layouts Views and Forms (TG)
+    <td> <!-- Week 7 - Thursday Afternoon Module -->
+	Layouts, Views, and Forms (Travis)
     </td>
-    <td> <!-- Week 6 - Friday Afternoon / Weekend Lab -->
+    <td> <!-- Week 7 - Friday Afternoon / Weekend Lab -->
+    Bog App
     </td>
   </tr>
   <tr>
     <td><strong>Homework</strong></td>
-    <td> <!-- Week 6 - Monday Homework -->
+    <td> <!-- Week 7 - Monday Homework -->
+    OOP Prep
     </td>
-    <td> <!-- Week 6 - Tuesday Homework -->
+    <td> <!-- Week 7 - Tuesday Homework -->
+    Get Ready for Rails!
     </td>
     <td> <!-- Week 6 - Wednesday Homework -->
+    Rails Guides
     </td>
     <td> <!-- Week 6 - Thursday Homework -->
+    Self Assessment & Review 
     </td>
     <td> <!-- Week 6 - Friday -->
       <!-- BLANK -->
