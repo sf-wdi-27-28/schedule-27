@@ -77,7 +77,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 7 - Monday Homework -->
-    OOP Prep
+    	<a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27/week-07/README.md">Username Generator & OOP Prep</a>
     </td>
     <td> <!-- Week 7 - Tuesday Homework -->
     Get Ready for Rails!
