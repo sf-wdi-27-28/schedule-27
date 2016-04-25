@@ -39,7 +39,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     Ruby OOP (Brianna)
     </td>
     <td> <!-- Week 7 - Wednesday Morning Module -->
-    Review Ruby OOP Lab (Brianna)
+    Review OOP Lab (Brianna)
     <hr>
     Intro Rails (Cory)
     </td>
