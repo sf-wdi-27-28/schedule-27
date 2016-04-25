@@ -3,6 +3,92 @@
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
 
+## Week 7  - Ruby, Rails
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 6 - Monday Drill -->
+    	<a href="https://github.com/SF-WDI-LABS/ruby-algorithms-drills/tree/master/regex">Regex</a>
+    </td>
+    <td> <!-- Week 6 - Tuesday Drill -->
+    	CSV
+    </td>
+    <td> <!-- Week 6 - Wednesday Drill -->
+    	CSV
+    </td>
+    <td> <!-- Week 6 - Thursday Drill -->
+    	Merge Sort
+    </td>
+    <td> <!-- Week 6 - Friday Review -->
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 6 - Monday Morning Module -->
+    Ruby Review (TG)
+    </td>
+    <td> <!-- Week 6 - Tuesday Morning Module -->
+    Ruby OO (BV)
+    </td>
+    <td> <!-- Week 6 - Wednesday Morning Module -->
+    r00by lab
+    <hr>
+    Intro Rails
+    </td>
+    <td> <!-- Week 6 - Thursday Morning Module -->
+    Active Record
+    </td>
+    <td> <!-- Week 6 - Friday Morning Module -->
+    
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 6 - Monday Afternoon Module -->
+    Username Generator Lab (CF)
+    </td>
+    <td> <!-- Week 6 - Tuesday Afternoon Module -->
+    Review Username Generator (WC)
+    <hr>
+    Roby OO (BV)
+    </td>
+    <td> <!-- Week 6 - Wednesday Afternoon Module -->
+    Rails Intro Cont'd (CF)
+    <hr>
+    Build a blog! (TG)
+    </td>
+    <td> <!-- Week 6 - Thursday Afternoon Module -->
+	Layouts Views and Forms (TG)
+    </td>
+    <td> <!-- Week 6 - Friday Afternoon / Weekend Lab -->
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 6 - Monday Homework -->
+    </td>
+    <td> <!-- Week 6 - Tuesday Homework -->
+    </td>
+    <td> <!-- Week 6 - Wednesday Homework -->
+    </td>
+    <td> <!-- Week 6 - Thursday Homework -->
+    </td>
+    <td> <!-- Week 6 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
+
+
 ## Week 6  - Angular -> Ruby
 <table>
   <tr>
