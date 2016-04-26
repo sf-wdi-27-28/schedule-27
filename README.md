@@ -60,7 +60,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <td> <!-- Week 7 - Tuesday Afternoon Module -->
     Review Username Generator (Will)
     <hr>
-    Roby OOP (Brianna)
+    Ruby OOP (Brianna)
     </td>
     <td> <!-- Week 7 - Wednesday Afternoon Module -->
     Rails Intro Continued (Cory)
