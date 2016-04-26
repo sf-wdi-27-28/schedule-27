@@ -19,7 +19,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     	<a href="https://github.com/SF-WDI-LABS/ruby-algorithms-drills/tree/master/regex">Regex</a> (Travis)
     </td>
     <td> <!-- Week 7 - Tuesday Drill -->
-    	Comma Separated Values (CSV) (Brianna)
+    	<a href="https://github.com/sf-wdi-27-28/csv_challenge">Comma Separated Values (CSV)</a> (Brianna)
     </td>
     <td> <!-- Week 7 - Wednesday Drill -->
     	CSV (Brianna)
