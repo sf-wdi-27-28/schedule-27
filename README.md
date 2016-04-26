@@ -36,7 +36,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     Ruby Review (Travis)
     </td>
     <td> <!-- Week 7 - Tuesday Morning Module -->
-    Ruby OOP (Brianna)
+    <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/04-ruby-rails/ruby-oop/27/oop-reading.md">Ruby OOP</a> (Brianna)
     </td>
     <td> <!-- Week 7 - Wednesday Morning Module -->
     Review OOP Lab (Brianna)
@@ -60,7 +60,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <td> <!-- Week 7 - Tuesday Afternoon Module -->
     Review Username Generator (Will)
     <hr>
-    Ruby OOP (Brianna)
+    <a href="https://github.com/sf-wdi-27-28/monster-oop">Ruby OOP Monster Lab</a> (Brianna)
     </td>
     <td> <!-- Week 7 - Wednesday Afternoon Module -->
     Rails Intro Continued (Cory)
