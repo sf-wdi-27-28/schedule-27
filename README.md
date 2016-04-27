@@ -65,7 +65,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <td> <!-- Week 7 - Wednesday Afternoon Module -->
     Rails Intro Continued (Cory)
     <hr>
-    Build a blog! (Travis)
+    <a href="https://github.com/sf-wdi-27-28/rails_simple_blog">Build a blog!</a> (Travis)
     </td>
     <td> <!-- Week 7 - Thursday Afternoon Module -->
 	Layouts, Views, and Forms (Travis)
