@@ -22,7 +22,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     	<a href="https://github.com/sf-wdi-27-28/csv_challenge">Comma Separated Values (CSV)</a> (Brianna)
     </td>
     <td> <!-- Week 7 - Wednesday Drill -->
-    	CSV (Brianna)
+    	continue <a href="https://github.com/sf-wdi-27-28/csv_challenge">CSV challenge</a>(Brianna)
     </td>
     <td> <!-- Week 7 - Thursday Drill -->
     	Ruby Merge Sort
