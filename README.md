@@ -41,7 +41,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <td> <!-- Week 7 - Wednesday Morning Module -->
     <a href="https://github.com/sf-wdi-27-28/monster-oop/blob/solution/solution/monster.rb">Review OOP Lab</a> (Brianna)
     <hr>
-    Intro Rails (Cory)
+    <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/intro-rails/27">Intro Rails</a> (Cory)
     </td>
     <td> <!-- Week 7 - Thursday Morning Module -->
     Active Record (Brianna)
