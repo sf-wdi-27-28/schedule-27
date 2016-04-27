@@ -77,13 +77,13 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 7 - Monday Homework -->
-    	<a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27/week-07/README.md">Username Generator & OOP Prep</a>
+    	<a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27/week-07/README.md#day-1">Username Generator & OOP Prep</a>
     </td>
     <td> <!-- Week 7 - Tuesday Homework -->
-    <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27/week-07/README.md">OOP Lab and Get Ready for Rails!</a>
+    <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27/week-07/README.md#day-2">OOP Lab and Get Ready for Rails!</a>
     </td>
     <td> <!-- Week 6 - Wednesday Homework -->
-    Rails Guides
+    <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27/week-07/README.md#day-3">Read Rails Guides and Submission for Blog App</a>
     </td>
     <td> <!-- Week 6 - Thursday Homework -->
     Self Assessment & Review
