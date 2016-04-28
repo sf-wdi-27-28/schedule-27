@@ -25,7 +25,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     	continue <a href="https://github.com/sf-wdi-27-28/csv_challenge">CSV challenge</a>(Brianna)
     </td>
     <td> <!-- Week 7 - Thursday Drill -->
-    	Ruby Merge Sort
+    	<a href="https://github.com/SF-WDI-LABS/ruby-algorithms-drills/tree/master/merge-sort">Ruby Merge Sort (Cory)</a>
     </td>
     <td> <!-- Week 7 - Friday Review -->
     </td>
