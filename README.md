@@ -44,7 +44,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/intro-rails/27">Intro Rails</a> (Cory)
     </td>
     <td> <!-- Week 7 - Thursday Morning Module -->
-    Active Record (Brianna)
+    <a href="https://github.com/sf-wdi-27-28/fashion_conference_app">Active Record</a> (Brianna)
     </td>
     <td> <!-- Week 7 - Friday Morning Module -->
     Rock-n-Rails (Cory)
@@ -82,13 +82,13 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <td> <!-- Week 7 - Tuesday Homework -->
     <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27/week-07/README.md#day-2">OOP Lab and Get Ready for Rails!</a>
     </td>
-    <td> <!-- Week 6 - Wednesday Homework -->
+    <td> <!-- Week 7 - Wednesday Homework -->
     <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27/week-07/README.md#day-3">Read Rails Guides and Submission for Blog App</a>
     </td>
-    <td> <!-- Week 6 - Thursday Homework -->
+    <td> <!-- Week 7 - Thursday Homework -->
     Self Assessment & Review
     </td>
-    <td> <!-- Week 6 - Friday -->
+    <td> <!-- Week 7 - Friday -->
       <!-- BLANK -->
     </td>
   </tr>
