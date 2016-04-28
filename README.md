@@ -86,7 +86,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27/week-07/README.md#day-3">Read Rails Guides and Submission for Blog App</a>
     </td>
     <td> <!-- Week 7 - Thursday Homework -->
-    Self Assessment & Review
+    <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27/week-07/README.md#day-4">Self Assessment & Review</a>
     </td>
     <td> <!-- Week 7 - Friday -->
       <!-- BLANK -->
