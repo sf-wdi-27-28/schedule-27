@@ -48,8 +48,8 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     </td>
     <td> <!-- Week 7 - Friday Morning Module -->
     <!-- <a href="https://github.com/SF-WDI-27-28/tunely_red">Tunely Red</a> (Cory) -->
-    <a href="https://github.com/sf-wdi-27-28/rock-n-rails">Rock-n-Rails</a> (Cory)
-    Assessment
+    <a href="https://github.com/sf-wdi-27-28/rock-n-rails">Rock-n-Rails</a> (Cory)<br>
+    <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/assessments/27/week-07">Assessment</a>
     Feedback
     </td>
   </tr>
