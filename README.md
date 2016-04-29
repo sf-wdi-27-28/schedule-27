@@ -72,7 +72,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
 	<a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/rails-view-helpers-and-partials/27">Layouts, Views, and Forms</a> (Travis)
     </td>
     <td> <!-- Week 7 - Friday Afternoon / Weekend Lab -->
-    Bog App
+    <a href="https://github.com/sf-wdi-27-28/rails-bog-app">Bog App</a>
     </td>
   </tr>
   <tr>
