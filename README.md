@@ -47,7 +47,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <a href="https://github.com/sf-wdi-27-28/fashion_conference_app">Active Record</a> (Brianna)
     </td>
     <td> <!-- Week 7 - Friday Morning Module -->
-    Rock-n-Rails (Cory)
+    <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/rock-n-rails">Rock-n-Rails</a> (Cory)
     Assessment
     Feedback
     </td>
