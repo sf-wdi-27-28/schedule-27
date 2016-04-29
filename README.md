@@ -3,6 +3,105 @@
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
 
+## Week 8  - Rails
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 8 - Monday Drill -->
+      SQL
+      (Brianna)
+    </td>
+    <td> <!-- Week 8 - Tuesday Drill -->
+      Secret Keys
+      (Brianna)
+    </td>
+    <td> <!-- Week 8 - Wednesday Drill -->
+      Git Theory
+      (Cory)
+    </td>
+    <td> <!-- Week 8 - Thursday Drill -->
+      Git Branching
+      (Cory)
+    </td>
+    <td> <!-- Week 8 - Friday Review -->
+      Vagabond
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 8 - Monday Morning Module -->
+      Migrations & Associations
+      (Travis)
+    </td>
+    <td> <!-- Week 8 - Tuesday Morning Module -->
+      Cookies & Sessions
+      (Cory)
+    </td>
+    <td> <!-- Week 8 - Wednesday Morning Module -->
+      Library App
+      (Travis)
+    </td>
+    <td> <!-- Week 8 - Thursday Morning Module -->
+      Vagabond
+      (team)
+    </td>
+    <td> <!-- Week 8 - Friday Morning Module -->
+      Vagabond
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 8 - Monday Afternoon Module -->
+      Validations & Error Handling
+      (Brianna)
+    </td>
+    <td> <!-- Week 8 - Tuesday Afternoon Module -->
+      Library App P1
+      (Travis)
+    </td>
+    <td> <!-- Week 8 - Wednesday Afternoon Module -->
+      Asset Pipeline
+      (Brianna)
+    </td>
+    <td> <!-- Week 8 - Thursday Afternoon Module -->
+      Vagabond
+      (team)
+    </td>
+    <td> <!-- Week 8 - Friday Afternoon / Weekend Lab -->
+      Vagabond
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 8 - Monday Homework -->
+
+    </td>
+    <td> <!-- Week 8 - Tuesday Homework -->
+      
+    </td>
+    <td> <!-- Week 8 - Wednesday Homework -->
+
+    </td>
+    <td> <!-- Week 8 - Thursday Homework -->
+
+    </td>
+    <td> <!-- Week 8 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
 ## Week 7  - Ruby, Rails
 <table>
   <tr>
