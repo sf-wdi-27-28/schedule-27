@@ -20,7 +20,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Brianna)
     </td>
     <td> <!-- Week 8 - Tuesday Drill -->
-      Secret Keys
+      Secret Keys & Encryption
       (Brianna)
     </td>
     <td> <!-- Week 8 - Wednesday Drill -->
