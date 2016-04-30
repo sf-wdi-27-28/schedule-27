@@ -32,8 +32,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Cory)
     </td>
     <td> <!-- Week 8 - Friday Review -->
-      Vagabond
-      (team)
+      Photo Uploading (Brianna)
     </td>
   </tr>
   <tr>
@@ -52,11 +51,9 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     </td>
     <td> <!-- Week 8 - Thursday Morning Module -->
       Vagabond
-      (team)
     </td>
     <td> <!-- Week 8 - Friday Morning Module -->
       Vagabond
-      (team)
     </td>
   </tr>
   <tr>
@@ -75,26 +72,25 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     </td>
     <td> <!-- Week 8 - Thursday Afternoon Module -->
       Vagabond
-      (team)
     </td>
     <td> <!-- Week 8 - Friday Afternoon / Weekend Lab -->
       Vagabond
-      (team)
     </td>
   </tr>
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 8 - Monday Homework -->
+    	Lab & Rails Guides
 
     </td>
     <td> <!-- Week 8 - Tuesday Homework -->
-      
+      Lab & Rails Guides
     </td>
     <td> <!-- Week 8 - Wednesday Homework -->
-
+	Lab & Tutorial
     </td>
     <td> <!-- Week 8 - Thursday Homework -->
-
+	Vagabond
     </td>
     <td> <!-- Week 8 - Friday -->
       <!-- BLANK -->
