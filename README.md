@@ -83,8 +83,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 8 - Monday Homework -->
-    	Lab & Rails Guides
-
+    	<a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27/week-08">Labs & Cookies and Sessions readings</a>
     </td>
     <td> <!-- Week 8 - Tuesday Homework -->
       Lab & Rails Guides
