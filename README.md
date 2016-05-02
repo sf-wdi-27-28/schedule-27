@@ -59,7 +59,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 8 - Monday Afternoon Module -->
-      Validations & Error Handling
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/model-validations-error-handling/27">Validations & Error Handling</a> & <a href="https://github.com/sf-wdi-27-28/rails_validations_errors">Pet Lab</a>
       (Brianna)
     </td>
     <td> <!-- Week 8 - Tuesday Afternoon Module -->
