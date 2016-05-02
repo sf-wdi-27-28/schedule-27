@@ -16,7 +16,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Drills</strong></td>
     <td> <!-- Week 8 - Monday Drill -->
-      SQL
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/intro-sql/27">SQL</a>
       (Brianna)
     </td>
     <td> <!-- Week 8 - Tuesday Drill -->
