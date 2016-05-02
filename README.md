@@ -38,7 +38,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 8 - Monday Morning Module -->
-      Migrations & Associations
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/migrations-and-associations/27">Migrations & Associations</a>
       (Travis)
     </td>
     <td> <!-- Week 8 - Tuesday Morning Module -->
