@@ -44,9 +44,12 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <td> <!-- Week 8 - Tuesday Morning Module -->
       Cookies & Sessions
       (Cory)
+      <hr>
+      Intro Authentication in Rails
+      (Travis)
     </td>
     <td> <!-- Week 8 - Wednesday Morning Module -->
-      Library App
+      Library App Part2
       (Travis)
     </td>
     <td> <!-- Week 8 - Thursday Morning Module -->
@@ -63,7 +66,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Brianna)
     </td>
     <td> <!-- Week 8 - Tuesday Afternoon Module -->
-      Rails Authentication
+      Rails Authentication continued w/ Library App
       (Travis)
     </td>
     <td> <!-- Week 8 - Wednesday Afternoon Module -->
