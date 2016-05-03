@@ -45,7 +45,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/cookies-sessions/27">Cookies & Sessions</a>
       (Cory)
       <hr>
-      Intro Authentication in Rails
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/04-ruby-rails/rails-auth/27/README.md">Intro Authentication in Rails</a>
       (Travis)
     </td>
     <td> <!-- Week 8 - Wednesday Morning Module -->
@@ -66,7 +66,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Brianna)
     </td>
     <td> <!-- Week 8 - Tuesday Afternoon Module -->
-      Rails Authentication continued w/ Library App
+      <a href="https://github.com/sf-wdi-27-28/public_library_app">Rails Authentication continued w/ Library App</a>
       (Travis)
     </td>
     <td> <!-- Week 8 - Wednesday Afternoon Module -->
