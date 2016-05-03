@@ -42,7 +42,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Travis)
     </td>
     <td> <!-- Week 8 - Tuesday Morning Module -->
-      Cookies & Sessions
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/cookies-sessions/04-ruby-rails/cookies-sessions/27#cookies--sessions">Cookies & Sessions</a>
       (Cory)
       <hr>
       Intro Authentication in Rails
