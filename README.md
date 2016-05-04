@@ -49,7 +49,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Travis)
     </td>
     <td> <!-- Week 8 - Wednesday Morning Module -->
-      Library App Part2
+      <a href="https://github.com/sf-wdi-27-28/public_library_app/blob/master/2_library_users.md">Library App Part2</a>
       (Travis)
     </td>
     <td> <!-- Week 8 - Thursday Morning Module -->
