@@ -70,7 +70,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Travis)
     </td>
     <td> <!-- Week 8 - Wednesday Afternoon Module -->
-      Asset Pipeline
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/asset-pipeline/27">Asset Pipeline</a> and <a href="https://github.com/sf-wdi-27-28/asset_pipeline_poem">Poem</a>
       (Brianna)
     </td>
     <td> <!-- Week 8 - Thursday Afternoon Module -->
