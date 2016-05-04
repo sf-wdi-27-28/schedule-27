@@ -89,7 +89,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27/week-08/README.md#day-2">Library Lab §1 and Rails Guides</a>
     </td>
     <td> <!-- Week 8 - Wednesday Homework -->
-	Lab & Tutorial
+	   <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27/week-08#day-3">Lab & Tutorial</a>
     </td>
     <td> <!-- Week 8 - Thursday Homework -->
 	Vagabond
