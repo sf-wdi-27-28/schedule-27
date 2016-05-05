@@ -53,7 +53,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Travis)
     </td>
     <td> <!-- Week 8 - Thursday Morning Module -->
-      Vagabond
+      <a href="https://github.com/sf-wdi-27-28/project-vagabond-27">Vagabond</a>
     </td>
     <td> <!-- Week 8 - Friday Morning Module -->
       Vagabond
