@@ -28,7 +28,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Cory)
     </td>
     <td> <!-- Week 8 - Thursday Drill -->
-      Git Branching
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/miscellaneous-drills/git-collaboration.md">Git Collaboration</a>
       (Cory)
     </td>
     <td> <!-- Week 8 - Friday Review -->
