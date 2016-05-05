@@ -92,7 +92,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
 	   <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27/week-08#day-3">Lab & Tutorial</a>
     </td>
     <td> <!-- Week 8 - Thursday Homework -->
-	Vagabond
+	<a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/deploy-rails-to-heroku.md">Heroku Deploy</a>  & <a href="https://docs.google.com/forms/d/1gHvt57-DXH7IDcStqMDDLXs9vRVQpbRbEYbtWKXD2Oo/viewform">Team Info Form</a>
     </td>
     <td> <!-- Week 8 - Friday -->
       <!-- BLANK -->
