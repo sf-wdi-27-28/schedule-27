@@ -32,7 +32,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Cory)
     </td>
     <td> <!-- Week 8 - Friday Review -->
-      Photo Uploads (Brianna) & Agile Development (PMI Ajesh)
+        <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/04-ruby-rails/rails-gems/image-upload.md">Photo Uploads</a> (Brianna) & Agile Development (PMI Ajesh)
     </td>
   </tr>
   <tr>
