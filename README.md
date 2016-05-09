@@ -2,6 +2,91 @@
 
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
+## Week 9  - Vagabond and Project 2
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 9 - Monday Drill -->
+      Vagabond
+    </td>
+    <td> <!-- Week 9 - Tuesday Drill -->
+      Vagabond presentations
+    </td>
+    <td> <!-- Week 9 - Wednesday Drill -->
+      Ruby bubble sort
+      (Cory)
+    </td>
+    <td> <!-- Week 9 - Thursday Drill -->
+      Project 2
+    </td>
+    <td> <!-- Week 9 - Friday Review -->
+      Project 2
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 9 - Monday Morning Module -->
+      Vagabond
+    </td>
+    <td> <!-- Week 9 - Tuesday Morning Module -->
+      Rspec and writing unit tests (Travis)
+    </td>
+    <td> <!-- Week 9 - Wednesday Morning Module -->
+      Rails lightning talks (Brianna)
+    </td>
+    <td> <!-- Week 9 - Thursday Morning Module -->
+      Project 2
+    </td>
+    <td> <!-- Week 9 - Friday Morning Module -->
+      Project 2
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 9 - Monday Afternoon Module -->
+      Vagabond - Feature Freeze at 2:17 pm
+    </td>
+    <td> <!-- Week 9 - Tuesday Afternoon Module -->
+      Views and JS in Rails (Travis)
+    </td>
+    <td> <!-- Week 9 - Wednesday Afternoon Module -->
+      Project 2 Intro
+      (Cory)
+    </td>
+    <td> <!-- Week 9 - Thursday Afternoon Module -->
+      Project 2 / Debugging breakout (Brianna)
+    </td>
+    <td> <!-- Week 9 - Friday Afternoon / Weekend Lab -->
+      Project 2 / Outcomes
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 9 - Monday Homework -->
+    	Finish project Vagabond
+    </td>
+    <td> <!-- Week 9 - Tuesday Homework -->
+      Lightning talk prep and project 2 proposal
+    </td>
+    <td> <!-- Week 9 - Wednesday Homework -->
+      Set up a team trello and begin project 2
+    </td>
+    <td> <!-- Week 9 - Thursday Homework -->
+    	Project 2
+    </td>
+    <td> <!-- Week 9 - Friday -->
+      Project 2
+    </td>
+  </tr>
+</table>
 
 ## Week 8  - Rails
 <table>
