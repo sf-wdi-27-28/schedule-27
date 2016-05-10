@@ -74,7 +74,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     	Finish project Vagabond
     </td>
     <td> <!-- Week 9 - Tuesday Homework -->
-      Lightning talk prep and project 2 proposal
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27/week-09#day-2">Lightning talk prep and project 2 proposal</a>
     </td>
     <td> <!-- Week 9 - Wednesday Homework -->
       Set up a team trello and begin project 2
