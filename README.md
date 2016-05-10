@@ -55,7 +55,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       Vagabond - Feature Freeze at 2:17 pm
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon Module -->
-      Views and JS in Rails (Travis)
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/js-and-turbolinks/27">Using JS in Rails</a> (Travis)
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon Module -->
       Project 2 Intro
