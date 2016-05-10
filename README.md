@@ -37,7 +37,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       Vagabond
     </td>
     <td> <!-- Week 9 - Tuesday Morning Module -->
-      Rspec and writing unit tests (Travis)
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/rspec-unit-tests/27">Rspec and writing unit tests</a> (Travis)
     </td>
     <td> <!-- Week 9 - Wednesday Morning Module -->
       Rails lightning talks (Brianna)
