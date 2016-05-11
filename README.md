@@ -40,7 +40,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/rspec-unit-tests/27">Rspec and writing unit tests</a> (Travis)
     </td>
     <td> <!-- Week 9 - Wednesday Morning Module -->
-      Rails lightning talks (Brianna)
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/04-ruby-rails/rails-gems/lightning-talks.md">Rails lightning talks</a> (Brianna)
     </td>
     <td> <!-- Week 9 - Thursday Morning Module -->
       Project 2
