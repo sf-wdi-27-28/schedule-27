@@ -21,7 +21,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       Vagabond presentations
     </td>
     <td> <!-- Week 9 - Wednesday Drill -->
-      [Ruby bubble sort](https://github.com/sf-wdi-27-28/bubble_sort_ruby/tree/master)
+      <a href="https://github.com/sf-wdi-27-28/bubble_sort_ruby/tree/master">Ruby bubble sort</a>
       (Cory)
     </td>
     <td> <!-- Week 9 - Thursday Drill -->
