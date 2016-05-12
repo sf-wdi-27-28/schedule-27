@@ -62,7 +62,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Cory)
     </td>
     <td> <!-- Week 9 - Thursday Afternoon Module -->
-      Project 2 / Debugging breakout (Brianna)
+      Project 2 
     </td>
     <td> <!-- Week 9 - Friday Afternoon / Weekend Lab -->
       Project 2 / Outcomes
