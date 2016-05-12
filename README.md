@@ -58,7 +58,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/js-and-turbolinks/27">Using JS in Rails</a> (Travis)
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon Module -->
-      Project 2 Intro
+      <a href="https://github.com/sf-wdi-27-28/project-2-27">Project 2 Intro</a>
       (Cory)
     </td>
     <td> <!-- Week 9 - Thursday Afternoon Module -->
