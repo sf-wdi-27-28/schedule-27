@@ -3,6 +3,109 @@
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
 
+## Week 10 - Project 2
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 10 - Monday Drill -->
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
+      (team)
+    </td>
+    <td> <!-- Week 10 - Tuesday Drill -->
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
+      (team)
+    </td>
+    <td> <!-- Week 10 - Wednesday Drill -->
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
+      (team)
+    </td>
+    <td> <!-- Week 10 - Thursday Drill -->
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
+      (team)
+    </td>
+    <td> <!-- Week 10 - Friday Review -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 10 - Monday Morning Module -->
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
+      (team)
+    </td>
+    <td> <!-- Week 10 - Tuesday Morning Module -->
+      <a href="https://github.com/sf-wdi-27-28/testing-with-rspec">Testing (with science!)</a>
+      (Justin)
+    </td>
+    <td> <!-- Week 10 - Wednesday Morning Module -->
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
+      (team)
+    </td>
+    <td> <!-- Week 10 - Thursday Morning Module -->
+      Presentations
+      (team)
+    </td>
+    <td> <!-- Week 10 - Friday Morning Module -->
+      Rails Debugging Lab
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 10 - Monday Afternoon Module -->
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
+      (team)
+    </td>
+    <td> <!-- Week 10 - Tuesday Afternoon Module -->
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
+      (team)
+    </td>
+    <td> <!-- Week 10 - Wednesday Afternoon Module -->
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
+      (team)
+    </td>
+    <td> <!-- Week 10 - Thursday Afternoon Module -->
+      Celebrate! 
+    </td>
+    <td> <!-- Week 10 - Friday Afternoon / Weekend Lab -->
+      Rails Debugging Lab
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 10 - Monday Homework -->
+     <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
+      (team)
+    </td>
+    <td> <!-- Week 10 - Tuesday Homework -->
+     <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
+      (team)
+    </td>
+    <td> <!-- Week 10 - Wednesday Homework -->
+     <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
+      (team)
+    </td>
+    <td> <!-- Week 10 - Thursday Homework -->
+      Rest
+    </td>
+    <td> <!-- Week 10 - Friday -->
+      Weekend Lab
+    </td>
+  </tr>
+</table>
+
+
+
 ## Week 9  - Vagabond and Project 2
 <table>
   <tr>
