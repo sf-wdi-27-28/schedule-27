@@ -24,8 +24,8 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 10 - Wednesday Drill -->
-      <a href="https://github.com/sf-wdi-27-28/project-2-27/blob/master/README.md">Project 2</a>
-      (team)
+      My First Domain Name!
+      (Cory)
     </td>
     <td> <!-- Week 10 - Thursday Drill -->
       <a href="https://github.com/sf-wdi-27-28/project-2-27/blob/master/README.md">Project 2</a>
