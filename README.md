@@ -24,7 +24,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 10 - Wednesday Drill -->
-      My First Domain Name!
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/custom-domain-with-cloudflare.md">My First Domain Name!</a>
       (Cory)
     </td>
     <td> <!-- Week 10 - Thursday Drill -->
