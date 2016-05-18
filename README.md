@@ -24,7 +24,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 10 - Wednesday Drill -->
-      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/custom-domain-with-cloudflare.md">My First Domain Name!</a>
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/custom-domain-with-cloudflare.md">My First Custom Domain Name!</a>
       (Cory)
     </td>
     <td> <!-- Week 10 - Thursday Drill -->
@@ -172,7 +172,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Cory)
     </td>
     <td> <!-- Week 9 - Thursday Afternoon Module -->
-      Project 2 
+      Project 2
     </td>
     <td> <!-- Week 9 - Friday Afternoon / Weekend Lab -->
       Project 2 / Outcomes
