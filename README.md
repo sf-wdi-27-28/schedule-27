@@ -102,7 +102,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 10 - Thursday Homework -->
-      Rest
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27/week-10#day-4">Rest and Styleguide reading</a>
     </td>
     <td> <!-- Week 10 - Friday -->
       Weekend Lab
