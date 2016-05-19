@@ -32,8 +32,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 10 - Friday Review -->
-      Review
-      (team)
+      Debugging with Debuggers! (Brianna)
     </td>
   </tr>
   <tr>
