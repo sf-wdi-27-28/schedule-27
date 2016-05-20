@@ -32,7 +32,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 10 - Friday Review -->
-      Debugging with Debuggers! (Brianna)
+      <a href="https://github.com/sf-wdi-27-28/rails-debugging">Debugging with Debuggers!</a> (Brianna)
     </td>
   </tr>
   <tr>
