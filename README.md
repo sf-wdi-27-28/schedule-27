@@ -56,7 +56,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 10 - Friday Morning Module -->
-      Rails Debugging Lab
+      Rails <a href="https://github.com/sf-wdi-27-28/publify_debugging_lab_27">Debugging Lab</a>
       (team)
     </td>
   </tr>
