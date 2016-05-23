@@ -36,7 +36,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 10 - Monday Morning Module -->
-    	MEAN (Cory)
+    	<a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/03-angular-mean/review/27"> MEAN </a> (Cory) 
     </td>
     <td> <!-- Week 10 - Tuesday Morning Module -->
     	Rails JSON (Brianna)
