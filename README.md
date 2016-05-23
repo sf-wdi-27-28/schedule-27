@@ -15,71 +15,72 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   </tr>
   <tr>
     <td><strong>Drills</strong></td>
-    <td> <!-- Week 10 - Monday Drill -->
+    <td> <!-- Week 11 - Monday Drill -->
       <a href="https://github.com/sf-wdi-27-28/tree-week-27/tree/master/intro">Intro Trees</a>
       (Brianna)
     </td>
-    <td> <!-- Week 10 - Tuesday Drill -->
+    <td> <!-- Week 11 - Tuesday Drill -->
       More Trees
       (team)
     </td>
-    <td> <!-- Week 10 - Wednesday Drill -->
+    <td> <!-- Week 11 - Wednesday Drill -->
       More Trees!
     </td>
-    <td> <!-- Week 10 - Thursday Drill -->
+    <td> <!-- Week 11 - Thursday Drill -->
       Project 3
     </td>
-    <td> <!-- Week 10 - Friday Review -->
+    <td> <!-- Week 11 - Friday Review -->
      Project 3
     </td>
   </tr>
   <tr>
     <td><strong>Module 1</strong></td>
-    <td> <!-- Week 10 - Monday Morning Module -->
+    <td> <!-- Week 11 - Monday Morning Module -->
     	<a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/03-angular-mean/review/27"> MEAN </a> (Cory) 
     </td>
-    <td> <!-- Week 10 - Tuesday Morning Module -->
+    <td> <!-- Week 11 - Tuesday Morning Module -->
     	Rails JSON (Brianna)
     </td>
-    <td> <!-- Week 10 - Wednesday Morning Module -->
+    <td> <!-- Week 11 - Wednesday Morning Module -->
     	Lightning Talks
      </td>
-    <td> <!-- Week 10 - Thursday Morning Module -->
+    <td> <!-- Week 11 - Thursday Morning Module -->
     	Project 3
      </td>
-    <td> <!-- Week 10 - Friday Morning Module -->
+    <td> <!-- Week 11 - Friday Morning Module -->
      Project 3
     </td>
   </tr>
   <tr>
     <td><strong>Module 2</strong></td>
-    <td> <!-- Week 10 - Monday Afternoon Module -->
+    <td> <!-- Week 11 - Monday Afternoon Module -->
     	MEAN (Cory)
      </td>
-    <td> <!-- Week 10 - Tuesday Afternoon Module -->
+    <td> <!-- Week 11 - Tuesday Afternoon Module -->
     	Rails + Angular (Travis)
     </td>
-    <td> <!-- Week 10 - Wednesday Afternoon Module -->
+    <td> <!-- Week 11 - Wednesday Afternoon Module -->
     	Project 3
     </td>
-    <td> <!-- Week 10 - Thursday Afternoon Module -->
+    <td> <!-- Week 11 - Thursday Afternoon Module -->
      Project 3
     </td>
-    <td> <!-- Week 10 - Friday Afternoon / Weekend Lab -->
+    <td> <!-- Week 11 - Friday Afternoon / Weekend Lab -->
     Project 3
     </td>
   </tr>
   <tr>
     <td><strong>Homework</strong></td>
-    <td> <!-- Week 10 - Monday Homework -->
+    <td> <!-- Week 11 - Monday Homework -->
+     <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27/week-11/README.md#day-1">Team MEAN App</a>
     </td>
-    <td> <!-- Week 10 - Tuesday Homework -->
+    <td> <!-- Week 11 - Tuesday Homework -->
     </td>
-    <td> <!-- Week 10 - Wednesday Homework -->
+    <td> <!-- Week 11 - Wednesday Homework -->
     </td>
-    <td> <!-- Week 10 - Thursday Homework -->
+    <td> <!-- Week 11 - Thursday Homework -->
     </td>
-    <td> <!-- Week 10 - Friday -->
+    <td> <!-- Week 11 - Friday -->
     </td>
   </tr>
 </table>
