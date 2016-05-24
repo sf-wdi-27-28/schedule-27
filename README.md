@@ -20,8 +20,8 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Brianna)
     </td>
     <td> <!-- Week 11 - Tuesday Drill -->
-      More Trees
-      (team)
+      Tree Traversal: <a href="https://github.com/sf-wdi-27-28/tree-week-27/tree/master/breadth-first">Breadth First</a> & <a href="https://github.com/sf-wdi-27-28/tree-week-27/tree/master/depth-first">Depth First</a>
+      (Brianna)
     </td>
     <td> <!-- Week 11 - Wednesday Drill -->
       More Trees!
