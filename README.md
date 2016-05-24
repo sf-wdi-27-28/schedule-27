@@ -75,6 +75,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27/week-11/README.md#day-1">Team MEAN App</a>
     </td>
     <td> <!-- Week 11 - Tuesday Homework -->
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27/week-11/README.md#day-2">Finish Rangular, prep lightning</a>
     </td>
     <td> <!-- Week 11 - Wednesday Homework -->
     </td>
