@@ -39,7 +39,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     	<a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/03-angular-mean/review/27"> MEAN </a> (Cory) 
     </td>
     <td> <!-- Week 11 - Tuesday Morning Module -->
-    	Rails JSON (Brianna)
+    	<a href="https://github.com/sf-wdi-27-28/con-pletionist/blob/master/instructions.md">Rails JSON</a> (Brianna)
     </td>
     <td> <!-- Week 11 - Wednesday Morning Module -->
     	Lightning Talks
