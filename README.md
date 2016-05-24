@@ -57,7 +57,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     	MEAN (Cory)
      </td>
     <td> <!-- Week 11 - Tuesday Afternoon Module -->
-    	Rails + Angular (Travis)
+    	<a href="https://github.com/sf-wdi-27-28/listly_rails_angular">Rails + Angular</a> (Travis)
     </td>
     <td> <!-- Week 11 - Wednesday Afternoon Module -->
     	Project 3
