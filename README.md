@@ -15,7 +15,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Interviews</strong></td>
     <td> <!-- Week 12 - Monday Drill -->
-      <img src="https://pixabay.com/static/uploads/photo/2016/04/06/13/18/american-flag-1311744_960_720.png" style="max-width: 40px;">
+      <img src="https://pixabay.com/static/uploads/photo/2016/04/06/13/18/american-flag-1311744_960_720.png" width="60">
     </td>
     <td> <!-- Week 12 - Tuesday Drill -->
       Mock Interviews
