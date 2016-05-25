@@ -28,10 +28,10 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 11 - Thursday Drill -->
-      Project 3
+    	<a href="https://github.com/sf-wdi-27-28/project-03-27">Project 3</a>
     </td>
     <td> <!-- Week 11 - Friday Review -->
-     Project 3
+    	<a href="https://github.com/sf-wdi-27-28/project-03-27">Project 3</a>
     </td>
   </tr>
   <tr>
@@ -46,10 +46,10 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     	Lightning Talks
      </td>
     <td> <!-- Week 11 - Thursday Morning Module -->
-    	Project 3
+    	<a href="https://github.com/sf-wdi-27-28/project-03-27">Project 3</a>
      </td>
     <td> <!-- Week 11 - Friday Morning Module -->
-     Project 3
+    	<a href="https://github.com/sf-wdi-27-28/project-03-27">Project 3</a>
     </td>
   </tr>
   <tr>
