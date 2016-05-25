@@ -61,13 +61,13 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     	<a href="https://github.com/sf-wdi-27-28/listly_rails_angular">Rails + Angular</a> (Travis)
     </td>
     <td> <!-- Week 11 - Wednesday Afternoon Module -->
-    	Project 3
+    	<a href="https://github.com/sf-wdi-27-28/project-03-27">Project 3</a>
     </td>
     <td> <!-- Week 11 - Thursday Afternoon Module -->
-     Project 3
+    	<a href="https://github.com/sf-wdi-27-28/project-03-27">Project 3</a>
     </td>
     <td> <!-- Week 11 - Friday Afternoon / Weekend Lab -->
-    Project 3
+    	<a href="https://github.com/sf-wdi-27-28/project-03-27">Project 3</a>
     </td>
   </tr>
   <tr>
