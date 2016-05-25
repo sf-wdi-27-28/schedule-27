@@ -36,15 +36,15 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
 	Memorial Day
      </td>
     <td> <!-- Week 12 - Tuesday Morning Module -->
-      Project 3
+      Project 3<br>
       (new developers)
     </td>
     <td> <!-- Week 12 - Wednesday Morning Module -->
-      Project 3
+      Project 3<br>
       (new developers)
     </td>
     <td> <!-- Week 12 - Thursday Morning Module -->
-      Project 3
+      Project 3<br>
       (new developers)
     </td>
     <td> <!-- Week 12 - Friday Morning Module -->
@@ -57,19 +57,19 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       No Class
     </td>
     <td> <!-- Week 12 - Tuesday Afternoon Module -->
-      Project 3
+      Project 3<br>
       (new developers)
     </td>
     <td> <!-- Week 12 - Wednesday Afternoon Module -->
-      Project 3
+      Project 3<br>
       (new developers)
     </td>
     <td> <!-- Week 12 - Thursday Afternoon Module -->
-      Project 3
+      Project 3<br>
       (new developers)
     </td>
     <td> <!-- Week 12 - Friday Afternoon / Weekend Lab -->
-      Graduation
+      Graduation<br>
       (new developers)
     </td>
   </tr>
