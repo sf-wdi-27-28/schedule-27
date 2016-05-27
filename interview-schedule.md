@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td><strong>11:45 AM</strong></td>
-    <td><em>T </em>
+    <td><em>T</em>
     
     </td>
     <td><em>T </em>
@@ -103,7 +103,7 @@
     <td>
     --
     </td>
-    <td><i>B</i>
+    <td><i>T</i>
     
     </td>  
     <td>
