@@ -1,7 +1,5 @@
 ## Interview Shedule
 
-coming soon
-
 <table>
   <tr>
     <th></th>
