@@ -1,8 +1,8 @@
 ## Interview Shedule
 
 coming soon
-<!--
-<tale>
+
+<table>
   <tr>
     <th></th>
     <th>Friday, May 27th</th>
@@ -12,71 +12,38 @@ coming soon
   </tr>
   <tr>
     <td><strong>9:30 AM</strong></td>
-    <td>Jackie <i>B</i>
-    </td>    
-    <td>      John <em>C </em>
- 
-    </td>    
-    <td>  
-    <em>C </em>
-    </td>
-    <td><em>C </em>    
-      
-    </td>
+    <td>Jackie (B)</td>    
+    <td>John (C)</td>    
+    <td>Ayush (C)</td>
+    <td>Anna (C)</td>
   </tr>
   <tr>
     <td><strong>10:15 AM</strong></td>
-    <td><i>B</i>
-    
-    </td>
-    <td><em>C </em>
-    
-    </td>  
-    <td><em>C </em>
-     
-    </td>
-    <td><em>C </em>
-     
-    </td>
+    <td>Sarah (B)</td>
+    <td>Ilter (C)</td>  
+    <td>Paul (C)</td>
+    <td>Andrea (C)</td>
   </tr>
   <tr>
     <td><strong>11:00 AM</strong></td>
-    <td><em>T </em>
-    t
-    </td>
-    <td><em>T </em>
-    t
-    </td>  
-    <td><i>B</i>
-     
-    </td>
-    <td><i>B</i>
-     
-    </td>
+    <td>Eric (B)</td>
+    <td>Nathan (B)</td>  
+    <td>Joanne (T)</td>
+    <td>Adam (T)</td>
   </tr>
   <tr>
     <td><strong>11:45 AM</strong></td>
-    <td><em>T</em>
-    
-    </td>
-    <td><em>T </em>
-    
-    </td>  
-    <td><i>B</i>
-     
-    </td>
-    <td><i>B</i>
-     
-    </td>
+    <td>Phill (B)</td>
+    <td>Rene (T)</td>  
+    <td>Herman (T)</td>
+    <td>Marcelo (T)</td>
   </tr>
   <tr>
     <td><strong>1:30 PM</strong></td>
     <td>
     --
     </td>
-    <td><i>B</i>
-    
-    </td>  
+    <td>Arthur (B)</td>  
     <td>
     --
     </td>
@@ -89,9 +56,7 @@ coming soon
     <td>
     --
     </td>
-    <td><i>B</i>
-    
-    </td>  
+    <td>Bryan (B)</td>  
     <td>
     --
     </td>
@@ -104,7 +69,7 @@ coming soon
     <td>
     --
     </td>
-    <td><i>T</i>
+    <td>Jonathan (T) 
     
     </td>  
     <td>
@@ -119,7 +84,7 @@ coming soon
     <td>
     --
     </td>
-    <td><i>B</i>
+    <td>Justin (T) 
     
     </td>  
     <td>
@@ -129,4 +94,4 @@ coming soon
     --
     </td>
   </tr>
-</tale>-->
+</table>
