@@ -31,7 +31,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     	<a href="https://github.com/sf-wdi-27-28/project-03-27">Project 3</a>
     </td>
     <td> <!-- Week 11 - Friday Review -->
-    	<a href="https://github.com/sf-wdi-27-28/project-03-27">Project 3</a>
+    	<a href="https://github.com/sf-wdi-27-28/project-03-27">Project 3</a> & <a href="https://github.com/sf-wdi-27-28/schedule-27/blob/master/interview-schedule.md">Interview Practice</a>
     </td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     	<a href="https://github.com/sf-wdi-27-28/project-03-27">Project 3</a>
      </td>
     <td> <!-- Week 11 - Friday Morning Module -->
-    	<a href="https://github.com/sf-wdi-27-28/project-03-27">Project 3</a>
+    	<a href="https://github.com/sf-wdi-27-28/project-03-27">Project 3</a> & <a href="https://github.com/sf-wdi-27-28/schedule-27/blob/master/interview-schedule.md">Interview Practice</a>
     </td>
   </tr>
   <tr>
