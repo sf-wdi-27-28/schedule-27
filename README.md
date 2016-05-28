@@ -3,6 +3,92 @@
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
 
+
+
+## Week 12 - Project 3
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 12 - Monday Drill -->
+      NO CLASS
+    </td>
+    <td> <!-- Week 11 - Tuesday Drill -->
+      <a href="https://github.com/sf-wdi-27-28/schedule-27/blob/master/interview-schedule.md">Interview Practice</a>
+    </td>
+    <td> <!-- Week 11 - Wednesday Drill -->
+      <a href="https://github.com/sf-wdi-27-28/schedule-27/blob/master/interview-schedule.md">Interview Practice</a>
+    </td>
+    <td> <!-- Week 11 - Thursday Drill -->
+    	<a href="https://github.com/sf-wdi-27-28/schedule-27/blob/master/interview-schedule.md">Interview Practice</a>
+    </td>
+    <td> <!-- Week 11 - Friday Review -->
+    	Project 3 Presentations
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 11 - Monday Morning Module -->
+    	NO CLASS
+    </td>
+    <td> <!-- Week 11 - Tuesday Morning Module -->
+    	Project 3 & <a href="https://github.com/sf-wdi-27-28/schedule-27/blob/master/interview-schedule.md">Interview Practice</a>
+    </td>
+    <td> <!-- Week 11 - Wednesday Morning Module -->
+    	Project 3 & <a href="https://github.com/sf-wdi-27-28/schedule-27/blob/master/interview-schedule.md">Interview Practice</a>
+     </td>
+    <td> <!-- Week 11 - Thursday Morning Module -->
+    	Project 3 & <a href="https://github.com/sf-wdi-27-28/schedule-27/blob/master/interview-schedule.md">Interview Practice</a>
+     </td>
+    <td> <!-- Week 11 - Friday Morning Module -->
+    	Project 3 Presentations
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 11 - Monday Afternoon Module -->
+    	NO CLASS
+     </td>
+    <td> <!-- Week 11 - Tuesday Afternoon Module -->
+    	Project 3 & <a href="https://github.com/sf-wdi-27-28/schedule-27/blob/master/interview-schedule.md">Interview Practice</a>
+    </td>
+    <td> <!-- Week 11 - Wednesday Afternoon Module -->
+    	Project 3
+    </td>
+    <td> <!-- Week 11 - Thursday Afternoon Module -->
+    	Project 3
+    </td>
+    <td> <!-- Week 11 - Friday Afternoon / Weekend Lab -->
+    	Graduation
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 11 - Monday Homework -->
+     Project 3
+    </td>
+    <td> <!-- Week 11 - Tuesday Homework -->
+   	Project 3
+    </td>
+    <td> <!-- Week 11 - Wednesday Homework -->
+    Project 3
+    </td>
+    <td> <!-- Week 11 - Thursday Homework -->
+    Project 3
+    </td>
+    <td> <!-- Week 11 - Friday -->
+    </td>
+  </tr>
+</table>
+
+
 ## Week 11 - Project 3
 <table>
   <tr>
@@ -192,6 +278,8 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     </td>
   </tr>
 </table>
+
+
 
 
 
