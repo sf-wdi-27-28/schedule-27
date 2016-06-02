@@ -1,6 +1,6 @@
 # WDI SF 27
 
-How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
+How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/store-secrets-using-env-vars.md">Hide Secret Keys with Environment Variables</a> or <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/04-ruby-rails/rails-gems/image-upload.md">a gem</a> or <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/hide-secrets-in-node.md">a Node module</a>
 
 
 
