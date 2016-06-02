@@ -20,7 +20,7 @@
     <td>Sarah (B)</td>
     <td>Ilter (C)</td>  
     <td>Paul (C)</td>
-    <td>Andrea (C)</td>
+    <td>Andrea (B)</td>
   </tr>
   <tr>
     <td><strong>11:00 AM</strong></td>
