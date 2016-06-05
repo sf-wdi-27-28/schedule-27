@@ -88,6 +88,80 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   </tr>
 </table>
 
+## Week 12  - Project 3 - Graduation - ^_^ 
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Interviews</strong></td>
+    <td> <!-- Week 12 - Monday Drill -->
+      <img src="https://pixabay.com/static/uploads/photo/2016/04/06/13/18/american-flag-1311744_960_720.png" width="60">
+    </td>
+    <td> <!-- Week 12 - Tuesday Drill -->
+      Mock Interviews
+    </td>
+    <td> <!-- Week 12 - Wednesday Drill -->
+      Mock Interviews
+    </td>
+    <td> <!-- Week 12 - Thursday Drill -->
+      Mock Interviews
+    </td>
+    <td> <!-- Week 12 - Friday Review -->
+      Final Project Presentations
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Morning</strong></td>
+    <td> <!-- Week 12 - Monday Morning Module -->
+	Memorial Day
+     </td>
+    <td> <!-- Week 12 - Tuesday Morning Module -->
+      Project 3<br>
+      (new developers)
+    </td>
+    <td> <!-- Week 12 - Wednesday Morning Module -->
+      Project 3<br>
+      (new developers)
+    </td>
+    <td> <!-- Week 12 - Thursday Morning Module -->
+      Project 3<br>
+      (new developers)
+    </td>
+    <td> <!-- Week 12 - Friday Morning Module -->
+      Final Project Presentations
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 12 - Monday Afternoon Module -->
+      No Class
+    </td>
+    <td> <!-- Week 12 - Tuesday Afternoon Module -->
+      Project 3<br>
+      (new developers)
+    </td>
+    <td> <!-- Week 12 - Wednesday Afternoon Module -->
+      Project 3<br>
+      (new developers)
+    </td>
+    <td> <!-- Week 12 - Thursday Afternoon Module -->
+      Project 3<br>
+      (new developers)
+    </td>
+    <td> <!-- Week 12 - Friday Afternoon / Weekend Lab -->
+      Graduation<br>
+      (new developers)
+    </td>
+  </tr>
+
+</table>
+
 
 ## Week 11 - Project 3
 <table>
